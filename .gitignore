@@ -1,12 +1,31 @@
-# Python temporary files
+# Python
 __pycache__/
 *.py[cod]
 *$py.class
+*.egg-info/
+dist/
+build/
+.eggs/
 
-# IDE and OS files
+# Virtual environments
+venv/
+env/
+.env/
+
+# IDE and editors
 .vscode/
 .idea/
-.ipynb_checkpoints/
+*.swp
+*.swo
+*~
+
+# OS files
 .DS_Store
 Thumbs.db
 desktop.ini
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Metadata files (auto-generated)
+*.metadata.json
