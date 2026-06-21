@@ -1,0 +1,51 @@
+﻿symbol,organ_name,sector,foreigner_percentage,state_percentage,free_float_percentage,listing_date
+HPG,Công ty Cổ phần Tập đoàn Hòa Phát,Basic Resources,0.21544984,0.0,0.55,2007-11-15T00:00:00
+FPT,Công ty Cổ phần FPT,Technology,0.29545869,0.05669811,0.8499999995,2006-12-13T00:00:00
+VNM,Công ty Cổ phần Sữa Việt Nam,Food & Beverage,0.48681207,0.36073812,0.4,2006-01-19T00:00:00
+MSN,Công ty Cổ phần Tập đoàn Masan,Food & Beverage,0.25001939,0.0,0.5999999999,2009-11-05T00:00:00
+VIC,Tập đoàn Vingroup - Công ty CP,Real Estate,0.02826213,0.0,0.3499999999,2007-09-19T00:00:00
+VRE,Công ty Cổ phần Vincom Retail,Real Estate,0.1232882,0.0,0.4,2017-11-06T00:00:00
+PVD,Tổng Công ty Cổ phần Khoan và Dịch vụ khoan Dầu khí,Oil & Gas,0.08511073,0.5042218,0.5,2006-12-05T00:00:00
+HSG,Công ty Cổ phần Tập đoàn Hoa Sen,Basic Resources,0.03709854,0.0,0.699999999,2008-12-05T00:00:00
+MWG,Công ty Cổ phần Đầu tư Thế Giới Di Động,Retail,0.48803851,0.0,0.7499999995,2014-07-14T00:00:00
+PNJ,Công ty Cổ phần Vàng bạc Đá quý Phú Nhuận,Personal & Household Goods,0.48023479,0.0,0.8999999998,2009-03-23T00:00:00
+REE,Công ty Cổ phần Cơ điện Lạnh,Utilities,0.49000336,0.05276858,0.349999999,2000-07-28T00:00:00
+GMD,Công ty Cổ phần Tập đoàn Gemadept,Industrial Goods & Services,0.40981673,0.0,0.9499999987,2002-04-22T00:00:00
+DGC,Công ty Cổ phần Tập đoàn Hóa chất Đức Giang,Chemicals,0.04884754,0.0,0.5999999979,2014-08-26T00:00:00
+KBC,Tổng Công ty Phát triển Đô thị Kinh Bắc - CTCP,Real Estate,0.0817899,0.0,0.5499999995,2009-12-18T00:00:00
+KDH,Công ty Cổ phần Đầu tư và Kinh doanh nhà Khang Điền,Real Estate,0.25305901,0.0,0.6499999997,2010-02-01T00:00:00
+NLG,Công ty Cổ phần Đầu tư Nam Long,Real Estate,0.39944576,0.0,0.7999999992,2013-04-08T00:00:00
+HDG,Công ty Cổ phần Tập đoàn Hà Đô,Real Estate,0.17467323,0.0,0.6000000005,2010-02-02T00:00:00
+DXG,Công ty Cổ phần Bluemarq Group,Real Estate,0.20222465,0.0,0.8,2009-12-22T00:00:00
+VHC,Công ty Cổ phần Vĩnh Hoàn,Food & Beverage,0.19516906,0.0,0.4499999974,2007-12-24T00:00:00
+ANV,Công ty Cổ phần Nam Việt,Food & Beverage,0.03555019,0.0,0.3,2007-12-07T00:00:00
+PC1,Công ty Cổ phần Tập đoàn PC1,Construction & Materials,0.09340053,0.0,0.6499999977,2016-11-16T00:00:00
+DBC,Công ty Cổ phần Tập đoàn Dabaco Việt Nam,Food & Beverage,0.01599764,0.0,0.6999999979,2008-03-18T00:00:00
+BMP,Công ty Cổ phần Nhựa Bình Minh,Construction & Materials,0.80795555,0.00024411,0.4499999988,2006-07-11T00:00:00
+NTP,Công ty Cổ phần Nhựa Thiếu niên Tiền Phong,Construction & Materials,0.15993792,0.37104956,0.25,2006-12-11T00:00:00
+CSV,Công ty Cổ phần Hóa chất Cơ bản miền Nam,Chemicals,0.00667556,0.65002315,0.3499999955,2015-03-18T00:00:00
+LIX,Công ty Cổ phần Bột Giặt LIX,Personal & Household Goods,0.02495435,0.51,0.35,2009-12-10T00:00:00
+GIL,Công ty Cổ phần Sản xuất Kinh doanh Xuất nhập khẩu Bình Thạnh,Personal & Household Goods,0.01244035,0.0,0.7999999961,2002-01-02T00:00:00
+HAX,Công ty Cổ phần Dịch vụ Ô tô Hàng Xanh,Automobiles & Parts,0.06916118,0.0,0.5999999944,2006-12-26T00:00:00
+AAA,Công ty Cổ phần Nhựa An Phát Xanh,Chemicals,0.01523509,0.0,0.5,2016-11-25T00:00:00
+SMC,Công ty Cổ phần Đầu tư Thương mại SMC,Basic Resources,0.2030372,0.0,0.4499999912,2006-10-30T00:00:00
+PTB,Công ty Cổ phần Phú Tài,Basic Resources,0.15870584,0.0,0.549999993,2011-07-22T00:00:00
+DPR,Công ty Cổ phần Cao su Đồng Phú,Chemicals,0.02849958,0.55244847,0.3999999908,2007-11-30T00:00:00
+PHR,Công ty Cổ phần Cao su Phước Hòa,Chemicals,0.13304289,0.666159,0.3499999978,2009-08-18T00:00:00
+TRC,Công ty Cổ phần Cao su Tây Ninh,Chemicals,0.00491753,0.6,0.3,2007-07-24T00:00:00
+TNG,Công ty Cổ phần Đầu tư và Thương mại TNG,Personal & Household Goods,0.22175426,0.0,0.5999999953,2007-11-22T00:00:00
+MSH,Công ty Cổ phần May Sông Hồng,Personal & Household Goods,0.07303129,0.0,0.4,2018-11-28T00:00:00
+TLG,Công ty Cổ phần Tập đoàn Thiên Long,Personal & Household Goods,0.11015483,0.0,0.4,2010-03-26T00:00:00
+PAN,Công ty Cổ phần Tập đoàn PAN,Food & Beverage,0.21780841,0.0,0.55,2006-12-22T00:00:00
+DBD,Công ty Cổ phần Dược - Trang thiết bị y tế Bình Định (BIDIPHAR),Health Care,0.15683422,0.1320818,0.7999999937,2017-01-16T00:00:00
+DMC,Công ty Cổ phần Xuất nhập khẩu Y tế DOMESCO,Health Care,0.56708429,0.34711624,0.1399999971,2006-12-25T00:00:00
+IMP,Công ty Cổ phần Dược phẩm Imexpharm,Health Care,0.72733661,0.2203868,0.5999999987,2006-12-04T00:00:00
+DHT,Công ty Cổ phần Dược phẩm Hà Tây,Health Care,0.40748263,0.0,0.2999999956,2008-12-03T00:00:00
+TRA,Công ty Cổ phần Traphaco,Health Care,0.4636153,0.35669968,0.3,2008-11-26T00:00:00
+VGC,Tổng Công ty Viglacera - Công ty Cổ phần,Construction & Materials,0.00957221,0.38582639,0.12,2015-10-15T00:00:00
+SZC,Công ty Cổ phần Sonadezi Châu Đức,Real Estate,0.01221738,0.46843679,0.4499999981,2019-01-15T00:00:00
+TIP,Công ty Cổ phần Phát triển Khu công nghiệp Tín Nghĩa,Real Estate,0.17155914,0.56739295,0.44999999,2016-06-06T00:00:00
+D2D,Công ty Cổ phần Phát triển Đô thị Công nghiệp số 2,Real Estate,0.03356057,0.57859429,0.4499999703,2009-08-14T00:00:00
+DGW,Công ty Cổ phần Thế Giới Số,Retail,0.23028179,0.0,0.6,2015-08-03T00:00:00
+PET,Tổng Công ty Cổ phần Dịch vụ Tổng hợp Dầu khí,Retail,0.00777109,0.0,0.5999999944,2007-09-12T00:00:00
+FRT,Công ty Cổ phần Bán lẻ Kỹ thuật số FPT,Retail,0.31192708,0.0,0.5499999956,2018-04-26T00:00:00
