@@ -32,10 +32,10 @@ try:
     
     # Lựa chọn các biến số quan trọng trong mô hình
     # Y = roa (Hiệu quả hoạt động)
-    # D = debt_to_equity (Cấu trúc vốn)
+    # D = debt_to_assets (Cấu trúc vốn)
     # X = các biến kiểm soát cấp doanh nghiệp
     y_col = 'roa'
-    d_col = 'debt_to_equity'
+    d_col = 'debt_to_assets'
     x_cols = ['current_ratio', 'quick_ratio', 'asset_turnover', 'gross_margin', 'net_margin', 'firm_age']
     
     # Loại bỏ các dòng bị khuyết thiếu (NaN) trong các biến chính

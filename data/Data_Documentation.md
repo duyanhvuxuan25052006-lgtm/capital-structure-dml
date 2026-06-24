@@ -53,7 +53,8 @@ D:\draft 2\
     *   `ticker`: Mã chứng khoán của công ty.
     *   Các cột từ 2 đến 53 là **52 chỉ số tài chính và hiệu quả hoạt động**, tiêu biểu gồm:
         *   `roa` / `roe`: Tỷ suất sinh lời trên tài sản / vốn chủ sở hữu ($Y$ chính).
-        *   `debt_to_equity`: Tỷ số Nợ trên Vốn chủ sở hữu ($D$ chính).
+        *   `debt_to_assets`: Tỷ số Nợ trên Tổng tài sản ($D$ chính, tính từ `debt_to_equity / (1 + debt_to_equity)`).
+        *   `debt_to_equity`: Tỷ số Nợ trên Vốn chủ sở hữu.
         *   `financial_leverage`: Hệ số đòn bẩy tài chính tổng tài sản/vốn chủ sở hữu.
         *   `current_ratio` / `quick_ratio`: Khả năng thanh toán hiện hành/thanh toán nhanh.
         *   `asset_turnover`: Vòng quay tổng tài sản (đo lường hiệu suất sử dụng vốn).

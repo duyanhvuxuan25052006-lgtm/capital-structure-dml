@@ -35,8 +35,8 @@ def clean_and_prepare_data(file_path):
     df = pd.read_csv(file_path)
     
     y_col = 'roa'
-    d_col = 'debt_to_equity'
-    x_cols = ['current_ratio', 'quick_ratio', 'asset_turnover', 'gross_margin', 'net_margin', 'firm_age']
+    d_col = 'debt_to_assets'
+    x_cols = ['current_ratio', 'quick_ratio', 'asset_turnover', 'gross_margin', 'firm_age']
     
     # Làm sạch NaN
     df_clean = df.dropna(subset=[y_col, d_col] + x_cols).copy()
@@ -126,6 +126,23 @@ def run_pipeline():
         'P-value': dml_enet.pval[0],
         'CI_lower': ci_e[0],
         'CI_upper': ci_e[1]
+    })
+    
+    # Mô hình 4: DML-PLR RandomForest
+    print("  • Đang ước lượng mô hình DML-PLR (RandomForest) với 5-Fold Cross-fitting...")
+    from sklearn.ensemble import RandomForestRegressor
+    rf_l = RandomForestRegressor(n_estimators=100, max_depth=6, random_state=42)
+    rf_m = RandomForestRegressor(n_estimators=100, max_depth=6, random_state=42)
+    dml_rf = dml.DoubleMLPLR(dml_data, ml_l=rf_l, ml_m=rf_m, n_folds=5, n_rep=5)
+    dml_rf.fit()
+    ci_rf = dml_rf.confint().values[0]
+    results.append({
+        'Model': 'DML-PLR (RandomForest)',
+        'Coef': dml_rf.coef[0],
+        'SE': dml_rf.se[0],
+        'P-value': dml_rf.pval[0],
+        'CI_lower': ci_rf[0],
+        'CI_upper': ci_rf[1]
     })
     
     # 4. Hiển thị bảng tổng hợp báo cáo học thuật
