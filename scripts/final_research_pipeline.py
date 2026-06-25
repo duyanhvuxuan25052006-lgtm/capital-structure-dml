@@ -81,26 +81,59 @@ def run_pipeline():
     
     # 3. Chạy các mô hình ước lượng
     results = []
+    tickers = df_raw['ticker'].values
     
-    # Mô hình 1: Traditional OLS (Fixed Effects)
-    print("\n  • Đang ước lượng mô hình Baseline OLS (Fixed Effects)...")
-    X_ols = sm.add_constant(np.hstack([D.reshape(-1, 1), X_all]))
-    ols_model = sm.OLS(Y, X_ols).fit(cov_type='HC3')
+    # Mô hình 1: Pooled OLS (không FE)
+    print("\n  • Đang ước lượng mô hình Baseline Pooled OLS (Clustered SE)...")
+    Y_raw = df_raw[y_col].values
+    D_raw = df_raw[d_col].values
+    X_raw_financial = df_raw[x_cols].values
+    scaler_raw = StandardScaler()
+    X_raw_financial = scaler_raw.fit_transform(X_raw_financial)
+    X_pooled = sm.add_constant(np.hstack([D_raw.reshape(-1, 1), X_raw_financial]))
+    pooled_model = sm.OLS(Y_raw, X_pooled).fit(cov_type='cluster', cov_kwds={'groups': tickers})
     results.append({
-        'Model': 'Traditional OLS (Entity & Time FE)',
-        'Coef': ols_model.params[1],
-        'SE': ols_model.bse[1],
-        'P-value': ols_model.pvalues[1],
-        'CI_lower': ols_model.conf_int()[1][0],
-        'CI_upper': ols_model.conf_int()[1][1]
+        'Model': 'Pooled OLS (không FE)',
+        'Coef': pooled_model.params[1],
+        'SE': pooled_model.bse[1],
+        'P-value': pooled_model.pvalues[1],
+        'CI_lower': pooled_model.conf_int()[1][0],
+        'CI_upper': pooled_model.conf_int()[1][1]
+    })
+    
+    # Mô hình 2: Entity FE (FEM)
+    print("  • Đang ước lượng mô hình Baseline Entity FE (FEM, Clustered SE)...")
+    X_entity_fe = sm.add_constant(np.hstack([D.reshape(-1, 1), scaler.fit_transform(df_demeaned[x_cols].values)]))
+    entity_fe_model = sm.OLS(Y, X_entity_fe).fit(cov_type='cluster', cov_kwds={'groups': tickers})
+    results.append({
+        'Model': 'Entity FE (FEM)',
+        'Coef': entity_fe_model.params[1],
+        'SE': entity_fe_model.bse[1],
+        'P-value': entity_fe_model.pvalues[1],
+        'CI_lower': entity_fe_model.conf_int()[1][0],
+        'CI_upper': entity_fe_model.conf_int()[1][1]
+    })
+    
+    # Mô hình 3: Two-way FE (Entity & Time FE)
+    print("  • Đang ước lượng mô hình Baseline Two-way FE (Entity & Time, Clustered SE)...")
+    X_twfe = sm.add_constant(np.hstack([D.reshape(-1, 1), X_all]))
+    twfe_model = sm.OLS(Y, X_twfe).fit(cov_type='cluster', cov_kwds={'groups': tickers})
+    results.append({
+        'Model': 'Two-way FE (Entity & Time)',
+        'Coef': twfe_model.params[1],
+        'SE': twfe_model.bse[1],
+        'P-value': twfe_model.pvalues[1],
+        'CI_lower': twfe_model.conf_int()[1][0],
+        'CI_upper': twfe_model.conf_int()[1][1]
     })
     
     # Đóng gói dữ liệu cho DoubleML
     dml_data = dml.DoubleMLData.from_arrays(x=X_all, y=Y, d=D)
     
-    # Mô hình 2: DML-PLR LassoCV
+    # Mô hình 4: DML-PLR LassoCV
     print("  • Đang ước lượng mô hình DML-PLR (LassoCV) với 5-Fold Cross-fitting...")
     lasso = LassoCV(cv=5, max_iter=10000, random_state=42)
+    np.random.seed(42)
     dml_lasso = dml.DoubleMLPLR(dml_data, ml_l=lasso, ml_m=lasso, n_folds=5, n_rep=5)
     dml_lasso.fit()
     ci_l = dml_lasso.confint().values[0]
@@ -113,9 +146,10 @@ def run_pipeline():
         'CI_upper': ci_l[1]
     })
     
-    # Mô hình 3: DML-PLR ElasticNetCV
+    # Mô hình 5: DML-PLR ElasticNetCV
     print("  • Đang ước lượng mô hình DML-PLR (ElasticNetCV) với 5-Fold Cross-fitting...")
     enet = ElasticNetCV(cv=5, max_iter=10000, random_state=42)
+    np.random.seed(42)
     dml_enet = dml.DoubleMLPLR(dml_data, ml_l=enet, ml_m=enet, n_folds=5, n_rep=5)
     dml_enet.fit()
     ci_e = dml_enet.confint().values[0]
@@ -128,11 +162,12 @@ def run_pipeline():
         'CI_upper': ci_e[1]
     })
     
-    # Mô hình 4: DML-PLR RandomForest
+    # Mô hình 6: DML-PLR RandomForest
     print("  • Đang ước lượng mô hình DML-PLR (RandomForest) với 5-Fold Cross-fitting...")
     from sklearn.ensemble import RandomForestRegressor
     rf_l = RandomForestRegressor(n_estimators=100, max_depth=6, random_state=42)
     rf_m = RandomForestRegressor(n_estimators=100, max_depth=6, random_state=42)
+    np.random.seed(42)
     dml_rf = dml.DoubleMLPLR(dml_data, ml_l=rf_l, ml_m=rf_m, n_folds=5, n_rep=5)
     dml_rf.fit()
     ci_rf = dml_rf.confint().values[0]
@@ -156,19 +191,23 @@ def run_pipeline():
     print("="*70)
     
     # 5. Vẽ đồ thị Forest Plot chuyên nghiệp để chèn vào slide báo cáo
-    plt.figure(figsize=(10, 4.5))
+    plt.figure(figsize=(10, 5))
     plt.style.use('seaborn-v0_8-whitegrid' if 'seaborn-v0_8-whitegrid' in plt.style.available else 'default')
     
     models = df_results['Model'].tolist()
     coefs = df_results['Coef'].tolist()
     errors = [df_results['Coef'] - df_results['CI_lower'], df_results['CI_upper'] - df_results['Coef']]
     
-    plt.errorbar(coefs, range(len(models)), xerr=errors, fmt='o', color='darkblue',
-                 ecolor='crimson', elinewidth=2, capsize=6, markersize=8, label='Hệ số tác động θ ± 95% CI')
+    colors = ['#e74c3c', '#3498db', '#2ecc71', '#9b59b6', '#f39c12', '#1abc9c']
+    
+    for i, (model_name, coef, lo, hi) in enumerate(zip(models, coefs, df_results['CI_lower'], df_results['CI_upper'])):
+        plt.errorbar(coef, i, xerr=[[coef - lo], [hi - coef]], fmt='o', color=colors[i % len(colors)],
+                     elinewidth=2, capsize=6, markersize=8)
+        plt.text(hi + 0.002, i, f'θ={coef:.4f}', va='center', fontsize=9, fontweight='bold')
     
     plt.yticks(range(len(models)), models, fontsize=10, fontweight='bold')
     plt.axvline(0, color='black', linestyle='--', linewidth=1.2)
-    plt.title("Hệ Số Tác Động Nhân Quả Của Đòn Bẩy Tài Chính Lên ROA", fontsize=12, fontweight='bold', pad=15)
+    plt.title("So Sánh Hệ Số Tác Động Nhân Quả (θ) Giữa Các Mô Hình", fontsize=12, fontweight='bold', pad=15)
     plt.xlabel("Hệ số hồi quy (θ)", fontsize=11, fontweight='bold')
     plt.grid(True, linestyle=':', alpha=0.6)
     plt.tight_layout()
