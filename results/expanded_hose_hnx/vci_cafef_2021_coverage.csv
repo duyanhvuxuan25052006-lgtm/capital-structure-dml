@@ -1,0 +1,5 @@
+﻿exchange,vci_q2_present,sample_firms,cafef_q1_complete,cafef_q2_complete,cafef_q2_coverage,cafef_q2_statement_available,cafef_q2_statement_coverage
+HNX,False,15,15,15,1.0,15,1.0
+HNX,True,15,13,13,0.8666666666666667,15,1.0
+HOSE,False,15,14,14,0.9333333333333333,15,1.0
+HOSE,True,15,15,14,0.9333333333333333,15,1.0

@@ -15,7 +15,7 @@ matplotlib>=3.7.0
 seaborn>=0.12.0
 
 # Vietnam stock data API
-vnstock>=3.0.0
+vnstock>=4.0.4
 
 # Utilities
 openpyxl>=3.1.0

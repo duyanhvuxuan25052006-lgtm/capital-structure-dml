@@ -1,0 +1,636 @@
+﻿symbol,organ_name,en_organ_name,exchange,type,id,industry_code,industry_name,sector,profile_status,exclude_reason,included_nonfinancial
+ADC,CTCP Mỹ thuật và Truyền thông,Art Design and Communication Joint Stock Company,HNX,stock,1,6.0,Công nghệ và thông tin,Công nghệ và thông tin,listing_only,,True
+ALT,CTCP Văn hóa Tân Bình,Alta Company,HNX,stock,1,18.0,SX Nhựa - Hóa chất,SX Nhựa - Hóa chất,listing_only,,True
+AMC,CTCP Khoáng sản Á Châu,Asia Mineral Joint Stock Company,HNX,stock,1,10.0,Khai khoáng,Khai khoáng,listing_only,,True
+AME,CTCP Alphanam E&C,Alphanam E&C Joint Stock Company,HNX,stock,1,24.0,Xây dựng,Xây dựng,listing_only,,True
+AMV,CTCP Sản xuất Kinh doanh Dược và Trang thiết bị Y tế Việt Mỹ,American Vietnamese Biotech Incorporation,HNX,stock,1,26.0,SX Phụ trợ,SX Phụ trợ,listing_only,,True
+API,CTCP Đầu tư Châu Á - Thái Bình Dương,Asia - Pacific Investment Joint Stock Company,HNX,stock,1,3.0,Bất động sản,Bất động sản,listing_only,,True
+ARM,CTCP Xuất nhập khẩu Hàng không,General Aviation Import Export Joint Stock Company,HNX,stock,1,23.0,Vận tải - kho bãi,Vận tải - kho bãi,listing_only,,True
+ATS,CTCP Tập đoàn Đầu tư ATS,ATS Investment Group Joint Stock Company,HNX,stock,1,,,,listing_only,,True
+BAX,CTCP Thống Nhất,Thong Nhat Joint Stock Company,HNX,stock,1,3.0,Bất động sản,Bất động sản,listing_only,,True
+BBS,CTCP VICEM Bao bì Bút Sơn,VICEM Packaging But Son Joint Stock Company,HNX,stock,1,18.0,SX Nhựa - Hóa chất,SX Nhựa - Hóa chất,listing_only,,True
+BCC,CTCP Xi măng Bỉm Sơn,Bim Son Cement Joint Stock Company,HNX,stock,1,21.0,Vật liệu xây dựng,Vật liệu xây dựng,listing_only,,True
+BCF,CTCP Thực phẩm Bích Chi,Bich Chi Food Company,HNX,stock,1,19.0,Thực phẩm - Đồ uống,Thực phẩm - Đồ uống,listing_only,,True
+BED,CTCP Sách và Thiết bị Trường học Đà Nẵng,Danang Books and School Equipment Joint Stock Company,HNX,stock,1,6.0,Công nghệ và thông tin,Công nghệ và thông tin,listing_only,,True
+BKC,CTCP Khoáng sản Bắc Kạn,Bac Kan Mineral Joint Stock Corporation,HNX,stock,1,10.0,Khai khoáng,Khai khoáng,listing_only,,True
+BNA,CTCP Tập đoàn Đầu tư Bảo Ngọc,Bao Ngoc Investment Group Joint Stock Company,HNX,stock,1,19.0,Thực phẩm - Đồ uống,Thực phẩm - Đồ uống,listing_only,,True
+BPC,CTCP VICEM Bao bì Bỉm Sơn,Vicem Packaging Bimson Joint Stock Company,HNX,stock,1,18.0,SX Nhựa - Hóa chất,SX Nhựa - Hóa chất,listing_only,,True
+BTS,CTCP Xi măng VICEM Bút Sơn,Vicem But Son Cement Joint Stock Company,HNX,stock,1,21.0,Vật liệu xây dựng,Vật liệu xây dựng,listing_only,,True
+BTW,CTCP Cấp nước Bến Thành,Ben Thanh Water Supply Joint Stock Company,HNX,stock,1,22.0,Tiện ích,Tiện ích,listing_only,,True
+BXH,CTCP VICEM Bao bì Hải Phòng,Haiphong Packing VICEM Joint Stock Company,HNX,stock,1,18.0,SX Nhựa - Hóa chất,SX Nhựa - Hóa chất,listing_only,,True
+C69,CTCP Xây dựng 1369,1369 Construction Joint Stock Company,HNX,stock,1,24.0,Xây dựng,Xây dựng,listing_only,,True
+CAG,CTCP Cảng An Giang,An Giang Port Joint Stock Company,HNX,stock,1,23.0,Vận tải - kho bãi,Vận tải - kho bãi,listing_only,,True
+CAN,CTCP Đồ hộp Hạ Long,Ha Long Canned Food Joint Stock Corporation,HNX,stock,1,20.0,Chế biến Thủy sản,Chế biến Thủy sản,listing_only,,True
+CAP,CTCP Lâm Nông sản Thực phẩm Yên Bái,Yen Bai Joint Stock Forest Agricultural Products And Foodstuff Company,HNX,stock,1,26.0,SX Phụ trợ,SX Phụ trợ,listing_only,,True
+CAR,CTCP Tập đoàn Giáo dục Trí Việt,Tri Viet Education Group Joint Stock Company,HNX,stock,1,,,,listing_only,,True
+CCR,CTCP Cảng Cam Ranh,Cam Ranh Port Joint Stock Company,HNX,stock,1,23.0,Vận tải - kho bãi,Vận tải - kho bãi,listing_only,,True
+CDN,CTCP Cảng Đà Nẵng,Danang Port Joint Stock Company,HNX,stock,1,23.0,Vận tải - kho bãi,Vận tải - kho bãi,listing_only,,True
+CEO,CTCP Tập đoàn C.E.O,C.E.O Group Joint Stock Company,HNX,stock,1,3.0,Bất động sản,Bất động sản,listing_only,,True
+CET,CTCP HTC Holding,HTC Holding Joint Stock Company,HNX,stock,1,26.0,SX Phụ trợ,SX Phụ trợ,listing_only,,True
+CIA,CTCP Dịch vụ Sân bay Quốc tế Cam Ranh,Cam Ranh International Airport Services Joint Stock Company,HNX,stock,1,23.0,Vận tải - kho bãi,Vận tải - kho bãi,listing_only,,True
+CJC,CTCP Cơ điện Miền Trung,Central Area Electrical Mechanical Joint Stock Company,HNX,stock,1,15.0,"SX Thiết bị, máy móc","SX Thiết bị, máy móc",listing_only,,True
+CKV,CTCP COKYVINA,COKYVINA Joint Stock Company,HNX,stock,1,6.0,Công nghệ và thông tin,Công nghệ và thông tin,listing_only,,True
+CLH,CTCP Xi măng La Hiên VVMI,VVMI La Hien Cement Joint Stock Company,HNX,stock,1,21.0,Vật liệu xây dựng,Vật liệu xây dựng,listing_only,,True
+CLM,CTCP Xuất nhập khẩu Than - Vinacomin,Vinacomin - Coal Import Export Joint Stock Company,HNX,stock,1,10.0,Khai khoáng,Khai khoáng,listing_only,,True
+CMC,CTCP Đầu tư CMC,CMC Investment Joint Stock Company,HNX,stock,1,1.0,Bán buôn,Bán buôn,listing_only,,True
+CMS,CTCP Tập Đoàn CMH Việt Nam,CMH Viet Nam Group Joint Stock Company,HNX,stock,1,24.0,Xây dựng,Xây dựng,listing_only,,True
+CPC,CTCP Thuốc sát trùng Cần Thơ,Can Tho Pesticides Joint Stock Company,HNX,stock,1,18.0,SX Nhựa - Hóa chất,SX Nhựa - Hóa chất,listing_only,,True
+CSC,CTCP Tập đoàn Cotana,Cotana Group Joint Stock Company,HNX,stock,1,3.0,Bất động sản,Bất động sản,listing_only,,True
+CST,CTCP Than Cao Sơn - TKV,Cao Son Coal Joint Stock Company,HNX,stock,1,10.0,Khai khoáng,Khai khoáng,listing_only,,True
+CTB,CTCP Chế tạo Bơm Hải Dương,Hai Duong Pump Manufacturing Joint Stock Company,HNX,stock,1,15.0,"SX Thiết bị, máy móc","SX Thiết bị, máy móc",listing_only,,True
+CTP,CTCP Tập đoàn CTP Group,CTP Group Corporation,HNX,stock,1,12.0,Nông - Lâm - Ngư,Nông - Lâm - Ngư,listing_only,,True
+CTT,CTCP Chế tạo Máy - Vinacomin,Vinacomin - Machinery Joint Stock Company,HNX,stock,1,15.0,"SX Thiết bị, máy móc","SX Thiết bị, máy móc",listing_only,,True
+CX8,CTCP Đầu tư và Xây lắp Constrexim Số 8,Constrexim No 8 Investment and Construction Joint Stock Company,HNX,stock,1,24.0,Xây dựng,Xây dựng,listing_only,,True
+D11,CTCP Địa ốc 11,Real Estate 11 Joint Stock Company,HNX,stock,1,3.0,Bất động sản,Bất động sản,listing_only,,True
+DAD,CTCP Đầu tư và Phát triển Giáo dục Đà Nẵng,Da Nang Education Development and Investment Joint Stock Company,HNX,stock,1,6.0,Công nghệ và thông tin,Công nghệ và thông tin,listing_only,,True
+DAE,CTCP Sách Giáo dục tại Thành phố Đà Nẵng,Educational Book Joint Stock Company in Da Nang City,HNX,stock,1,6.0,Công nghệ và thông tin,Công nghệ và thông tin,listing_only,,True
+DC2,CTCP Đầu tư Phát triển - Xây dựng (DIC) số 2,Development Investment Construction Number 2 Joint Stock Company,HNX,stock,1,24.0,Xây dựng,Xây dựng,listing_only,,True
+DHP,CTCP Điện cơ Hải Phòng,Hai Phong Electrical Mechanical Joint Stock Company,HNX,stock,1,27.0,Thiết bị điện,Thiết bị điện,listing_only,,True
+DHT,CTCP Dược phẩm Hà Tây,Ha Tay Pharmaceutical Joint Stock Company,HNX,stock,1,8.0,Chăm sóc sức khỏe,Chăm sóc sức khỏe,listing_only,,True
+DIH,CTCP Đầu tư Phát triển Xây dựng - Hội An,Development Investment Construction Hoi An Joint Stock Company,HNX,stock,1,24.0,Xây dựng,Xây dựng,listing_only,,True
+DL1,CTCP Tập đoàn Alpha Seven,Alpha Seven Group Joint Stock Company,HNX,stock,1,23.0,Vận tải - kho bãi,Vận tải - kho bãi,listing_only,,True
+DNC,CTCP Điện Nước Lắp máy Hải Phòng,Hai Phong Electricity Water Machine Assembly JSC,HNX,stock,1,22.0,Tiện ích,Tiện ích,listing_only,,True
+DNP,CTCP DNP Holding,DNP Holding Joint Stock Company,HNX,stock,1,18.0,SX Nhựa - Hóa chất,SX Nhựa - Hóa chất,listing_only,,True
+DP3,CTCP Dược phẩm Trung ương 3,Central Pharmaceutical Joint Stock Company No 3,HNX,stock,1,8.0,Chăm sóc sức khỏe,Chăm sóc sức khỏe,listing_only,,True
+DS3,CTCP DS3,DS3 Joint Stock Company,HNX,stock,1,23.0,Vận tải - kho bãi,Vận tải - kho bãi,listing_only,,True
+DST,CTCP Đầu tư Sao Thăng Long,Sao Thang Long Investment Joint Stock Company,HNX,stock,1,6.0,Công nghệ và thông tin,Công nghệ và thông tin,listing_only,,True
+DTD,CTCP Đầu tư Phát triển Thành Đạt,Thanh Dat Investment Development Joint Stock Company,HNX,stock,1,3.0,Bất động sản,Bất động sản,listing_only,,True
+DTG,CTCP Dược phẩm Tipharco,Tipharco Pharmaceutical Joint Stock Company,HNX,stock,1,8.0,Chăm sóc sức khỏe,Chăm sóc sức khỏe,listing_only,,True
+DTK,Tổng Công ty Điện lực TKV - CTCP,Vinacomin - Power Holding Corporation,HNX,stock,1,22.0,Tiện ích,Tiện ích,listing_only,,True
+DVM,CTCP Dược liệu Việt Nam,Vietnam Medicinal Materials Joint Stock Company,HNX,stock,1,8.0,Chăm sóc sức khỏe,Chăm sóc sức khỏe,listing_only,,True
+DXP,CTCP Cảng Đoạn Xá,DoanXa Port Joint Stock Company,HNX,stock,1,23.0,Vận tải - kho bãi,Vận tải - kho bãi,listing_only,,True
+EBS,CTCP Sách Giáo dục tại Thành phố Hà Nội,Educational Book Joint Stock Company in Hanoi City,HNX,stock,1,6.0,Công nghệ và thông tin,Công nghệ và thông tin,listing_only,,True
+ECI,CTCP Tập Đoàn ECI,ECI Group Joint Stock Company,HNX,stock,1,6.0,Công nghệ và thông tin,Công nghệ và thông tin,listing_only,,True
+EID,CTCP Đầu tư và Phát triển Giáo dục Hà Nội,Hanoi Education Development and Investment Joint Stock Company,HNX,stock,1,6.0,Công nghệ và thông tin,Công nghệ và thông tin,listing_only,,True
+FID,CTCP Đầu tư và Phát triển Doanh nghiệp Việt Nam,Vietnam Enterprise Investment and Development Joint Stock Company,HNX,stock,1,1.0,Bán buôn,Bán buôn,listing_only,,True
+GDW,CTCP Cấp nước Gia Định,Gia Dinh Water Supply Joint Stock Company,HNX,stock,1,22.0,Tiện ích,Tiện ích,listing_only,,True
+GIC,CTCP VSC Green Logistics,VSC Green Logistics Joint Stock Company,HNX,stock,1,23.0,Vận tải - kho bãi,Vận tải - kho bãi,listing_only,,True
+GKM,CTCP GKM Holdings,GKM Holdings Joint Stock Company,HNX,stock,1,21.0,Vật liệu xây dựng,Vật liệu xây dựng,listing_only,,True
+GLT,CTCP Kỹ thuật Điện Toàn cầu,Global Electrical Technology Corporation,HNX,stock,1,6.0,Công nghệ và thông tin,Công nghệ và thông tin,listing_only,,True
+GMA,CTCP G-Automobile,G-Automobile Joint Stock Company,HNX,stock,1,7.0,Bán lẻ,Bán lẻ,listing_only,,True
+GMX,CTCP Gạch ngói Gốm Xây dựng Mỹ Xuân,My Xuan Brick Tile Pottery And Construction Joint Stock Company,HNX,stock,1,21.0,Vật liệu xây dựng,Vật liệu xây dựng,listing_only,,True
+HAD,CTCP Bia Hà Nội - Hải Dương,Ha Noi - Hai Duong Beer Joint Stock Company,HNX,stock,1,19.0,Thực phẩm - Đồ uống,Thực phẩm - Đồ uống,listing_only,,True
+HAT,CTCP Thương mại Bia Hà Nội,Ha Noi Beer Trading Joint Stock Company,HNX,stock,1,19.0,Thực phẩm - Đồ uống,Thực phẩm - Đồ uống,listing_only,,True
+HCC,CTCP Bê tông Hòa Cầm - Intimex,Intimex - Hoa Cam Concrete Joint Stock Company,HNX,stock,1,21.0,Vật liệu xây dựng,Vật liệu xây dựng,listing_only,,True
+HCT,CTCP Thương mại Dịch vụ Vận tải Xi măng Hải Phòng,Hai Phong Cement Transport and Trading Joint Stock Company,HNX,stock,1,23.0,Vận tải - kho bãi,Vận tải - kho bãi,listing_only,,True
+HDA,CTCP Hãng sơn Đông Á,Dong A Paint Joint Stock Company,HNX,stock,1,18.0,SX Nhựa - Hóa chất,SX Nhựa - Hóa chất,listing_only,,True
+HEV,CTCP Sách Đại học - Dạy nghề,Higher Education And Vocational Book Joint Stock Company,HNX,stock,1,6.0,Công nghệ và thông tin,Công nghệ và thông tin,listing_only,,True
+HGM,CTCP Cơ khí và Khoáng sản Hà Giang,Ha Giang Mineral and Mechanics Joint Stock Company,HNX,stock,1,10.0,Khai khoáng,Khai khoáng,listing_only,,True
+HHC,CTCP Bánh kẹo Hải Hà ,Haiha Confectionery Joint Stock Company,HNX,stock,1,19.0,Thực phẩm - Đồ uống,Thực phẩm - Đồ uống,listing_only,,True
+HJS,CTCP Thủy điện Nậm Mu,Nam Mu Hydropower Joint Stock Company,HNX,stock,1,22.0,Tiện ích,Tiện ích,listing_only,,True
+HKT,CTCP QP Holdings,QP Holdings Joint Stock Company,HNX,stock,1,12.0,Nông - Lâm - Ngư,Nông - Lâm - Ngư,listing_only,,True
+HLC,CTCP Than Hà Lầm - Vinacomin,Vinacomin - Ha Lam Coal Joint Stock Company,HNX,stock,1,10.0,Khai khoáng,Khai khoáng,listing_only,,True
+HLD,CTCP Đầu tư và Phát triển Bất động sản Hudland,HUDLAND Real Estate Investment and Development Joint Stock Company,HNX,stock,1,3.0,Bất động sản,Bất động sản,listing_only,,True
+HMH,CTCP Hải Minh,Hai Minh Corporation,HNX,stock,1,23.0,Vận tải - kho bãi,Vận tải - kho bãi,listing_only,,True
+HMR,CTCP Đá Hoàng Mai,Hoang Mai Stone Joint Stock Company,HNX,stock,1,10.0,Khai khoáng,Khai khoáng,listing_only,,True
+HOM,CTCP Xi măng VICEM Hoàng Mai,VICEM Hoang Mai Cement Joint Stock Company,HNX,stock,1,21.0,Vật liệu xây dựng,Vật liệu xây dựng,listing_only,,True
+HTC,CTCP Thương mại Hóc Môn,HocMon Trade Joint Stock Company,HNX,stock,1,7.0,Bán lẻ,Bán lẻ,listing_only,,True
+HUT,CTCP Tasco,Tasco Joint Stock Company,HNX,stock,1,24.0,Xây dựng,Xây dựng,listing_only,,True
+HVT,CTCP Hóa chất Việt Trì,Viet Tri Chemical Joint Stock Company,HNX,stock,1,18.0,SX Nhựa - Hóa chất,SX Nhựa - Hóa chất,listing_only,,True
+ICG,CTCP Xây dựng Sông Hồng,Song Hong Construction Joint Stock Company,HNX,stock,1,3.0,Bất động sản,Bất động sản,listing_only,,True
+IDC,Tổng Công ty IDICO - CTCP,IDICO Corporation - JSC,HNX,stock,1,22.0,Tiện ích,Tiện ích,listing_only,,True
+IDJ,CTCP Đầu tư IDJ Việt Nam,IDJ Vietnam Investment Joint Stock Company,HNX,stock,1,3.0,Bất động sản,Bất động sản,listing_only,,True
+IDV,CTCP Phát triển Hạ tầng Vĩnh Phúc,Vinh Phuc Infrastructure Development Joint Stock Company,HNX,stock,1,3.0,Bất động sản,Bất động sản,listing_only,,True
+INC,CTCP Tư vấn Đầu tư IDICO,IDICO Investment Consultancy Joint Stock Company,HNX,stock,1,28.0,"Dịch vụ tư vấn, hỗ trợ","Dịch vụ tư vấn, hỗ trợ",listing_only,,True
+INN,CTCP Bao bì và In Nông nghiệp,Agriculture Printing and Packaging Joint Stock Company,HNX,stock,1,26.0,SX Phụ trợ,SX Phụ trợ,listing_only,,True
+ITQ,CTCP Tập đoàn Thiên Quang,Thien Quang Group Joint Stock Company,HNX,stock,1,26.0,SX Phụ trợ,SX Phụ trợ,listing_only,,True
+KDM,CTCP Tập Đoàn GCL,GCL Group Joint Stock Company,HNX,stock,1,1.0,Bán buôn,Bán buôn,listing_only,,True
+KHS,CTCP Kiên Hùng,Kien Hung Joint Stock Company,HNX,stock,1,20.0,Chế biến Thủy sản,Chế biến Thủy sản,listing_only,,True
+KKC,CTCP Tập Đoàn Thành Thái,Thanh Thai Group Joint Stock Company,HNX,stock,1,21.0,Vật liệu xây dựng,Vật liệu xây dựng,listing_only,,True
+KMT,CTCP Kim khí Miền Trung,Central Viet Nam Metal Corporation,HNX,stock,1,1.0,Bán buôn,Bán buôn,listing_only,,True
+KSD,CTCP Đầu tư DNA,DNA Investment Joint Stock Company,HNX,stock,1,27.0,Thiết bị điện,Thiết bị điện,listing_only,,True
+KSF,CTCP Tập đoàn Sunshine,Sunshine Group Joint Stock Company,HNX,stock,1,3.0,Bất động sản,Bất động sản,listing_only,,True
+KST,CTCP KASATI,Kasati Joint Stock Company,HNX,stock,1,6.0,Công nghệ và thông tin,Công nghệ và thông tin,listing_only,,True
+KSV,Tổng Công ty Khoáng sản TKV - CTCP,Vinacomin - Minerals Holding Corporation,HNX,stock,1,10.0,Khai khoáng,Khai khoáng,listing_only,,True
+KTS,CTCP Đường Kon Tum,Kon Tum Sugar Joint Stock Company,HNX,stock,1,19.0,Thực phẩm - Đồ uống,Thực phẩm - Đồ uống,listing_only,,True
+L14,CTCP Licogi 14,Licogi 14 Joint Stock Company,HNX,stock,1,3.0,Bất động sản,Bất động sản,listing_only,,True
+L18,CTCP Đầu tư và Xây dựng Số 18,Construction and Investment Joint Stock Company No 18,HNX,stock,1,24.0,Xây dựng,Xây dựng,listing_only,,True
+L40,CTCP Đầu Tư và Xây dựng 40,40 Investment and Construction Joint Stock Company,HNX,stock,1,24.0,Xây dựng,Xây dựng,listing_only,,True
+LAS,CTCP Supe Phốt phát và Hóa chất Lâm Thao,Lam Thao Fertilizers and Chemicals Joint Stock Company,HNX,stock,1,18.0,SX Nhựa - Hóa chất,SX Nhựa - Hóa chất,listing_only,,True
+LBE,CTCP Thương mại và Dịch vụ LVA,LVA Trading and Services Joint Stock Company,HNX,stock,1,6.0,Công nghệ và thông tin,Công nghệ và thông tin,listing_only,,True
+LCD,CTCP Lắp máy - Thí nghiệm Cơ điện,Erection - Electromechanics Testing Joint Stock Company,HNX,stock,1,24.0,Xây dựng,Xây dựng,listing_only,,True
+LDP,CTCP Dược Lâm Đồng (Ladophar),Lam Dong Pharmaceutical Joint Stock Company,HNX,stock,1,8.0,Chăm sóc sức khỏe,Chăm sóc sức khỏe,listing_only,,True
+LHC,CTCP Đầu tư và Xây dựng Thủy lợi Lâm Đồng,Lam Dong Investment and Hydraulic Construction Joint - Stock Company,HNX,stock,1,24.0,Xây dựng,Xây dựng,listing_only,,True
+LIG,CTCP Licogi 13,Licogi 13 Joint Stock Company,HNX,stock,1,24.0,Xây dựng,Xây dựng,listing_only,,True
+MAC,CTCP Tập đoàn Macstar,Macstar Group Corporation,HNX,stock,1,23.0,Vận tải - kho bãi,Vận tải - kho bãi,listing_only,,True
+MAS,CTCP Dịch vụ Hàng không Sân bay Đà Nẵng,Danang Airport Services Joint Stock Company,HNX,stock,1,23.0,Vận tải - kho bãi,Vận tải - kho bãi,listing_only,,True
+MBG,CTCP Tập đoàn MBG,MBG Group Joint Stock Company,HNX,stock,1,27.0,Thiết bị điện,Thiết bị điện,listing_only,,True
+MCC,CTCP Gạch ngói Cao cấp,High Grade Brick Tile Corporation,HNX,stock,1,21.0,Vật liệu xây dựng,Vật liệu xây dựng,listing_only,,True
+MCF,CTCP Xây lắp Cơ khí và Lương thực Thực phẩm,Mechanics Construction and Foodstuff Joint-Stock Company,HNX,stock,1,1.0,Bán buôn,Bán buôn,listing_only,,True
+MCO,CTCP Đầu tư và Xây dựng BDC Việt Nam,Investment and Construction BDC Viet Nam Joint Stock Company,HNX,stock,1,24.0,Xây dựng,Xây dựng,listing_only,,True
+MDC,CTCP Than Mông Dương - Vinacomin,Vinacomin - Mong Duong Coal Joint Stock Company,HNX,stock,1,10.0,Khai khoáng,Khai khoáng,listing_only,,True
+MED,CTCP Dược Trung ương Mediplantex,Mediplantex National Pharmaceutical Joint Stock Company,HNX,stock,1,8.0,Chăm sóc sức khỏe,Chăm sóc sức khỏe,listing_only,,True
+MEL,CTCP Thép Mê Lin,Me Lin Steel Joint Stock Company,HNX,stock,1,1.0,Bán buôn,Bán buôn,listing_only,,True
+MIC,CTCP Kỹ nghệ Khoáng sản Quảng Nam,Quang Nam Mineral Industry Corporation,HNX,stock,1,10.0,Khai khoáng,Khai khoáng,listing_only,,True
+MKV,CTCP Dược thú Y Cai Lậy,Cai Lay Veterinary Pharmaceutical Joint Stock Company,HNX,stock,1,8.0,Chăm sóc sức khỏe,Chăm sóc sức khỏe,listing_only,,True
+MST,CTCP Đầu tư MST,MST Investment Joint Stock Company,HNX,stock,1,24.0,Xây dựng,Xây dựng,listing_only,,True
+MVB,Tổng Công ty Công nghiệp mỏ Việt Bắc TKV - CTCP,Vinacomin - Viet Bac Mining Industry Holding Corporation,HNX,stock,1,10.0,Khai khoáng,Khai khoáng,listing_only,,True
+NAG,CTCP Tập đoàn Nagakawa,Nagakawa Group Joint Stock Company,HNX,stock,1,15.0,"SX Thiết bị, máy móc","SX Thiết bị, máy móc",listing_only,,True
+NAP,CTCP Cảng Nghệ Tĩnh,Nghe Tinh Port Joint Stock Company,HNX,stock,1,23.0,Vận tải - kho bãi,Vận tải - kho bãi,listing_only,,True
+NBC,CTCP Than Núi Béo - Vinacomin,Vinacomin NuiBeo Coal Joint Stock Company,HNX,stock,1,10.0,Khai khoáng,Khai khoáng,listing_only,,True
+NBP,CTCP Nhiệt điện Ninh Bình,Ninh Binh Thermal Power Joint Stock Company,HNX,stock,1,22.0,Tiện ích,Tiện ích,listing_only,,True
+NBW,CTCP Cấp nước Nhà Bè,Nha Be Water Supply Joint Stock Company,HNX,stock,1,22.0,Tiện ích,Tiện ích,listing_only,,True
+NDN,CTCP Đầu tư Phát triển Nhà Đà Nẵng,Danang Housing Investment Development Joint Stock Company,HNX,stock,1,3.0,Bất động sản,Bất động sản,listing_only,,True
+NDX,CTCP Xây lắp Phát triển Nhà Đà Nẵng,Da Nang Housing Development Joint Stock Company,HNX,stock,1,24.0,Xây dựng,Xây dựng,listing_only,,True
+NET,CTCP Bột giặt NET,NET Detergent Joint Stock Company,HNX,stock,1,18.0,SX Nhựa - Hóa chất,SX Nhựa - Hóa chất,listing_only,,True
+NFC,CTCP Phân lân Ninh Bình,Ninh Binh Phosphate Fertilizer Joint Stock Company,HNX,stock,1,18.0,SX Nhựa - Hóa chất,SX Nhựa - Hóa chất,listing_only,,True
+NHC,CTCP Gạch ngói Nhị Hiệp,Nhi Hiep Brick-Tile Co-Orporation,HNX,stock,1,21.0,Vật liệu xây dựng,Vật liệu xây dựng,listing_only,,True
+NRC,CTCP Tập đoàn NRC,NRC Corporation Joint Stock Company,HNX,stock,1,3.0,Bất động sản,Bất động sản,listing_only,,True
+NSH,CTCP Tập Đoàn Nhôm Sông Hồng Shalumi,Song Hong Aluminum Shalumi Group Joint Stock Company,HNX,stock,1,21.0,Vật liệu xây dựng,Vật liệu xây dựng,listing_only,,True
+NST,CTCP Ngân Sơn,Ngan Son Joint Stock Company,HNX,stock,1,,,,listing_only,,True
+NTH,CTCP Thủy điện Nước Trong,Nuoc Trong Hydro-Power Joint Stock Company,HNX,stock,1,22.0,Tiện ích,Tiện ích,listing_only,,True
+NTP,CTCP Nhựa Thiếu niên Tiền Phong,Tien Phong Plastic Joint Stock Company ,HNX,stock,1,18.0,SX Nhựa - Hóa chất,SX Nhựa - Hóa chất,listing_only,,True
+OCH,CTCP One Capital Hospitality,One Capital Hospitality Joint Stock Company,HNX,stock,1,25.0,"Dịch vụ lưu trú, ăn uống, giải trí","Dịch vụ lưu trú, ăn uống, giải trí",listing_only,,True
+ONE,CTCP Công nghệ One,One Technologies Corporation,HNX,stock,1,6.0,Công nghệ và thông tin,Công nghệ và thông tin,listing_only,,True
+PBP,CTCP Bao bì Dầu khí Việt Nam,PetroVietnam Packaging Joint Stock Company,HNX,stock,1,18.0,SX Nhựa - Hóa chất,SX Nhựa - Hóa chất,listing_only,,True
+PCE,CTCP Phân bón và Hóa chất Dầu khí Miền Trung,Central PetroVietnam Fertilizer and Chemicals Joint Stock Company,HNX,stock,1,18.0,SX Nhựa - Hóa chất,SX Nhựa - Hóa chất,listing_only,,True
+PCH,CTCP Nhựa Picomat,Picomat Plastic Joint Stock Company,HNX,stock,1,18.0,SX Nhựa - Hóa chất,SX Nhựa - Hóa chất,listing_only,,True
+PCT,CTCP Vận tải biển Global Pacific,Global Pacific Shipping Joint Stock Company,HNX,stock,1,1.0,Bán buôn,Bán buôn,listing_only,,True
+PDB,CTCP Tập đoàn Đầu tư Din Capital,Din Capital Investment Group Joint Stock Company,HNX,stock,1,21.0,Vật liệu xây dựng,Vật liệu xây dựng,listing_only,,True
+PEN,CTCP Xây lắp III Petrolimex,Petrolimex Installation No.III Joint Stock Company,HNX,stock,1,24.0,Xây dựng,Xây dựng,listing_only,,True
+PGN,CTCP Phụ Gia Nhựa,Plastic Additives Joint Stock Company,HNX,stock,1,18.0,SX Nhựa - Hóa chất,SX Nhựa - Hóa chất,listing_only,,True
+PGS,CTCP Kinh doanh Khí Miền Nam,Southern Gas Trading Joint Stock Company,HNX,stock,1,22.0,Tiện ích,Tiện ích,listing_only,,True
+PGT,CTCP PGT Holdings,PGT Holdings Joint Stock Company,HNX,stock,1,23.0,Vận tải - kho bãi,Vận tải - kho bãi,listing_only,,True
+PHN,CTCP Pin Hà Nội,Ha Noi Battery Joint Stock Company,HNX,stock,1,27.0,Thiết bị điện,Thiết bị điện,listing_only,,True
+PIA,CTCP Tin học Viễn thông Petrolimex,Petrolimex Information Technology and Telecommunication Joint Stock Company,HNX,stock,1,6.0,Công nghệ và thông tin,Công nghệ và thông tin,listing_only,,True
+PIC,CTCP Đầu tư Điện lực 3,PC3 - Investment Joint Stock Company ,HNX,stock,1,22.0,Tiện ích,Tiện ích,listing_only,,True
+PJC,CTCP Thương mại và Vận tải Petrolimex Hà Nội,Petrolimex Ha Noi Transportation and Trading Joint Stock Company,HNX,stock,1,23.0,Vận tải - kho bãi,Vận tải - kho bãi,listing_only,,True
+PLC,Tổng Công ty Hóa dầu Petrolimex - CTCP,Petrolimex Petrochemical Corporation - JSC,HNX,stock,1,26.0,SX Phụ trợ,SX Phụ trợ,listing_only,,True
+PMB,CTCP Phân bón và Hóa chất Dầu khí Miền Bắc,North PetroVietnam Fertilizer and Chemicals Joint Stock Company,HNX,stock,1,18.0,SX Nhựa - Hóa chất,SX Nhựa - Hóa chất,listing_only,,True
+PMC,CTCP Dược phẩm Dược liệu Pharmedic,Pharmedic Pharmaceutical Medicinal Joint Stock Company,HNX,stock,1,8.0,Chăm sóc sức khỏe,Chăm sóc sức khỏe,listing_only,,True
+PMP,CTCP Bao bì đạm Phú Mỹ,Dam Phu My Packaging Joint Stock Company,HNX,stock,1,18.0,SX Nhựa - Hóa chất,SX Nhựa - Hóa chất,listing_only,,True
+PMS,CTCP Cơ khí Xăng dầu,Petroleum Mechanical Stock Company,HNX,stock,1,26.0,SX Phụ trợ,SX Phụ trợ,listing_only,,True
+POT,CTCP Thiết bị Bưu điện,Post and Telecommunication Equipment Joint Stock Company,HNX,stock,1,27.0,Thiết bị điện,Thiết bị điện,listing_only,,True
+PPE,CTCP Tư vấn đầu tư PP Enterprise,PP Enterprise Investment Consultancy Joint Stock Company,HNX,stock,1,28.0,"Dịch vụ tư vấn, hỗ trợ","Dịch vụ tư vấn, hỗ trợ",listing_only,,True
+PPP,CTCP Dược phẩm Phong Phú,Phong Phu Pharmaceutical Joint Stock Company,HNX,stock,1,8.0,Chăm sóc sức khỏe,Chăm sóc sức khỏe,listing_only,,True
+PPS,CTCP Dịch vụ Kỹ thuật Điện lực Dầu khí Việt Nam,PetroVietnam Power Services Joint Stock Company,HNX,stock,1,24.0,Xây dựng,Xây dựng,listing_only,,True
+PPT,CTCP Petro Times,Petro Times Joint Stock Company,HNX,stock,1,1.0,Bán buôn,Bán buôn,listing_only,,True
+PPY,CTCP Xăng dầu Dầu khí Phú Yên,PetroVietnam Oil Phu Yen Joint Stock Company,HNX,stock,1,1.0,Bán buôn,Bán buôn,listing_only,,True
+PRC,CTCP Logistics Portserco,Portserco Logistics Joint Stock Company,HNX,stock,1,23.0,Vận tải - kho bãi,Vận tải - kho bãi,listing_only,,True
+PSC,CTCP Vận tải và Dịch vụ Petrolimex Sài Gòn,Petrolimex Saigon Transportation and Service Joint Stock Company,HNX,stock,1,1.0,Bán buôn,Bán buôn,listing_only,,True
+PSD,CTCP Dịch vụ Phân phối Tổng hợp Dầu khí,Petroleum General Distribution Services Joint Stock Company,HNX,stock,1,1.0,Bán buôn,Bán buôn,listing_only,,True
+PSE,CTCP Phân Bón và Hóa Chất Dầu khí Đông Nam Bộ,South-East PetroVietnam Fertilizer and Chemicals Joint Stock Company,HNX,stock,1,1.0,Bán buôn,Bán buôn,listing_only,,True
+PSW,CTCP Phân bón và Hóa chất Dầu khí Tây Nam Bộ,South West PetroVietnam Fertilizer and Chemicals Joint Stock Company,HNX,stock,1,18.0,SX Nhựa - Hóa chất,SX Nhựa - Hóa chất,listing_only,,True
+PTD,CTCP Thiết kế Xây dựng Thương mại Phúc Thịnh,Phuc Thinh Design Construction Trading Corporation,HNX,stock,1,24.0,Xây dựng,Xây dựng,listing_only,,True
+PTS,CTCP Vận tải và Dịch vụ Petrolimex Hải Phòng,Petrolimex Haiphong Transportation and Services Joint Stock Company,HNX,stock,1,23.0,Vận tải - kho bãi,Vận tải - kho bãi,listing_only,,True
+PTX,CTCP Vận tải và Dịch vụ Petrolimex Nghệ Tĩnh,Petrolimex Nghe Tinh Transportation and Service Joint Stock Company,HNX,stock,1,1.0,Bán buôn,Bán buôn,listing_only,,True
+PV2,CTCP Genea Capital,Genea Capital Joint Stock Company,HNX,stock,1,3.0,Bất động sản,Bất động sản,listing_only,,True
+PVB,CTCP Bọc ống Dầu khí Việt Nam,PetroVietnam Coating Joint Stock Company,HNX,stock,1,10.0,Khai khoáng,Khai khoáng,listing_only,,True
+PVC,Tổng Công ty Hóa chất và Dịch vụ Dầu khí - CTCP,PetroVietnam Chemical and Services Joint Stock Corporation,HNX,stock,1,10.0,Khai khoáng,Khai khoáng,listing_only,,True
+PVG,CTCP Kinh doanh LPG Việt Nam,Petro VietNam LPG Joint Stock Company,HNX,stock,1,22.0,Tiện ích,Tiện ích,listing_only,,True
+PVS,Tổng Công ty cổ phần Dịch vụ Kỹ thuật Dầu khí Việt Nam,PetroVietnam Technical Services Corporation,HNX,stock,1,10.0,Khai khoáng,Khai khoáng,listing_only,,True
+QHD,CTCP Que hàn điện Việt Đức,Viet Duc Welding Electrode Joint Stock Company,HNX,stock,1,15.0,"SX Thiết bị, máy móc","SX Thiết bị, máy móc",listing_only,,True
+QST,CTCP Sách và Thiết bị Trường học Quảng Ninh,Quang Ninh Book & Educational Equipment JSC,HNX,stock,1,6.0,Công nghệ và thông tin,Công nghệ và thông tin,listing_only,,True
+QTC,CTCP Công trình Giao thông Vận tải Quảng Nam,Quang Nam Transportion Construction Joint Stock Company,HNX,stock,1,24.0,Xây dựng,Xây dựng,listing_only,,True
+RCL,CTCP Địa ốc Chợ Lớn,Cho Lon Real Estate Joint Stock Company,HNX,stock,1,3.0,Bất động sản,Bất động sản,listing_only,,True
+S55,CTCP Sông Đà 505,Song Da 505 Joint Stock Company,HNX,stock,1,24.0,Xây dựng,Xây dựng,listing_only,,True
+S99,CTCP SCI,SCI Joint Stock Company,HNX,stock,1,24.0,Xây dựng,Xây dựng,listing_only,,True
+SAF,CTCP Lương thực Thực phẩm Safoco,Safoco Foodstuff Joint Stock Company,HNX,stock,1,19.0,Thực phẩm - Đồ uống,Thực phẩm - Đồ uống,listing_only,,True
+SCG,CTCP Tập đoàn Xây dựng SCG,SCG Construction Group Joint Stock Company,HNX,stock,1,24.0,Xây dựng,Xây dựng,listing_only,,True
+SCI,CTCP SCI E&C,SCI E&C Joint Stock Company,HNX,stock,1,24.0,Xây dựng,Xây dựng,listing_only,,True
+SD5,CTCP Sông Đà 5,Song Da No5 Joint-Stock Company,HNX,stock,1,24.0,Xây dựng,Xây dựng,listing_only,,True
+SD9,CTCP Sông Đà 9,Song Da No 9 Joint Stock Company,HNX,stock,1,24.0,Xây dựng,Xây dựng,listing_only,,True
+SDC,CTCP Tư vấn Sông Đà,Song Da Consulting Joint Stock Company,HNX,stock,1,28.0,"Dịch vụ tư vấn, hỗ trợ","Dịch vụ tư vấn, hỗ trợ",listing_only,,True
+SDG,CTCP Sadico Cần Thơ,Sadico Can Tho Joint Stock Corporation,HNX,stock,1,18.0,SX Nhựa - Hóa chất,SX Nhựa - Hóa chất,listing_only,,True
+SDN,CTCP Sơn Đồng Nai,Dong Nai Paint Corporation,HNX,stock,1,18.0,SX Nhựa - Hóa chất,SX Nhựa - Hóa chất,listing_only,,True
+SDU,CTCP Đầu tư Xây dựng và Phát triển Đô thị Sông Đà,Song Da Urban Investment Construction and Development Joint Stock Company,HNX,stock,1,3.0,Bất động sản,Bất động sản,listing_only,,True
+SEB,CTCP Đầu tư và Phát triển Điện Miền Trung,Mien Trung Power Investment and Development Joint Stock Company,HNX,stock,1,22.0,Tiện ích,Tiện ích,listing_only,,True
+SED,CTCP Đầu tư và Phát triển Giáo dục Phương Nam,Phuong Nam Education Investment and Development Joint Stock Company,HNX,stock,1,6.0,Công nghệ và thông tin,Công nghệ và thông tin,listing_only,,True
+SFN,CTCP Dệt lưới Sài Gòn,Sai Gon Fishing Net Joint Stock Company,HNX,stock,1,18.0,SX Nhựa - Hóa chất,SX Nhựa - Hóa chất,listing_only,,True
+SGC,CTCP Xuất nhập khẩu Sa Giang,Sa Giang Import Export Corporation,HNX,stock,1,19.0,Thực phẩm - Đồ uống,Thực phẩm - Đồ uống,listing_only,,True
+SGD,CTCP Sách Giáo dục tại Thành phố Hồ Chí Minh,Educational Book Joint Stock Company in Ho Chi Minh City,HNX,stock,1,6.0,Công nghệ và thông tin,Công nghệ và thông tin,listing_only,,True
+SGH,CTCP Khách sạn Sài Gòn,Sai Gon Hotel Corporation ,HNX,stock,1,25.0,"Dịch vụ lưu trú, ăn uống, giải trí","Dịch vụ lưu trú, ăn uống, giải trí",listing_only,,True
+SHE,CTCP Phát triển Năng lượng Sơn Hà,Son Ha Development of Renewable Energy Joint Stock Company,HNX,stock,1,15.0,"SX Thiết bị, máy móc","SX Thiết bị, máy móc",listing_only,,True
+SHN,CTCP Đầu tư Tổng hợp Hà Nội,Ha Noi Investment General Corporation,HNX,stock,1,1.0,Bán buôn,Bán buôn,listing_only,,True
+SJ1,CTCP Nông nghiệp Hùng Hậu,Hung Hau Agricultural Corporation,HNX,stock,1,20.0,Chế biến Thủy sản,Chế biến Thủy sản,listing_only,,True
+SJE,CTCP Sông Đà 11,Song Da No 11 Joint Stock Company,HNX,stock,1,24.0,Xây dựng,Xây dựng,listing_only,,True
+SLS,CTCP Mía Đường Sơn La,Son La Sugar Joint Stock Company,HNX,stock,1,19.0,Thực phẩm - Đồ uống,Thực phẩm - Đồ uống,listing_only,,True
+SMN,CTCP Sách và Thiết bị Giáo dục Miền Nam,South Books and Educational Equipment Joint Stock Company,HNX,stock,1,6.0,Công nghệ và thông tin,Công nghệ và thông tin,listing_only,,True
+SMT,CTCP Sametel,Sametel Corporation,HNX,stock,1,26.0,SX Phụ trợ,SX Phụ trợ,listing_only,,True
+SPC,CTCP Bảo vệ Thực vật Sài Gòn,Sai Gon Plant Protection Joint Stock Company,HNX,stock,1,18.0,SX Nhựa - Hóa chất,SX Nhựa - Hóa chất,listing_only,,True
+SRA,CTCP Sara Việt Nam,Sara Vietnam Joint Stock Company,HNX,stock,1,1.0,Bán buôn,Bán buôn,listing_only,,True
+SSM,CTCP Chế tạo kết cấu Thép Vneco.SSM,Steel Structure Manufacture Joint Stock Company,HNX,stock,1,26.0,SX Phụ trợ,SX Phụ trợ,listing_only,,True
+STC,CTCP Sách và Thiết bị Trường học Thành phố Hồ Chí Minh,Book and Educational Equipment Joint Stock Company of Ho Chi Minh City,HNX,stock,1,6.0,Công nghệ và thông tin,Công nghệ và thông tin,listing_only,,True
+STP,CTCP Công nghiệp Thương mại Sông Đà,Song Da Industry Trade Joint Stock Company,HNX,stock,1,18.0,SX Nhựa - Hóa chất,SX Nhựa - Hóa chất,listing_only,,True
+SVN,CTCP Tập đoàn Vexilla Việt Nam,Vexilla Viet Nam Group Joint Stock Company,HNX,stock,1,12.0,Nông - Lâm - Ngư,Nông - Lâm - Ngư,listing_only,,True
+SZB,CTCP Sonadezi Long Bình,Sonadezi Long Binh Share Holding Company,HNX,stock,1,3.0,Bất động sản,Bất động sản,listing_only,,True
+TA9,CTCP Xây lắp Thành An 96,Thanh An 96 Installation and Construction Joint Stock Company,HNX,stock,1,24.0,Xây dựng,Xây dựng,listing_only,,True
+TD6,CTCP Than Đèo Nai - Cọc Sáu - TKV,Deo Nai - Coc Sau - TKV Coal Joint Stock Company,HNX,stock,1,10.0,Khai khoáng,Khai khoáng,listing_only,,True
+TDT,CTCP Đầu tư và Phát triển TDT,TDT Investment and Development Joint Stock Company,HNX,stock,1,16.0,SX Hàng gia dụng,SX Hàng gia dụng,listing_only,,True
+TET,CTCP Vải sợi May mặc Miền Bắc,Northern Textiles and Garments Joint Stock Company ,HNX,stock,1,16.0,SX Hàng gia dụng,SX Hàng gia dụng,listing_only,,True
+TFC,CTCP Trang,Trang Corporation,HNX,stock,1,20.0,Chế biến Thủy sản,Chế biến Thủy sản,listing_only,,True
+THB,CTCP Bia Hà Nội - Thanh Hóa,Ha Noi - Thanh Hoa Beer Joint Stock Company,HNX,stock,1,19.0,Thực phẩm - Đồ uống,Thực phẩm - Đồ uống,listing_only,,True
+THD,CTCP Thaiholdings,Thaiholdings Joint Stock Company,HNX,stock,1,24.0,Xây dựng,Xây dựng,listing_only,,True
+THS,CTCP Thanh Hoa - Sông Đà,Song Da Thanh Hoa Joint Stock Company,HNX,stock,1,1.0,Bán buôn,Bán buôn,listing_only,,True
+THT,CTCP Than Hà Tu - Vinacomin,Vinacomin - Ha Tu Coal Joint Stock Company,HNX,stock,1,10.0,Khai khoáng,Khai khoáng,listing_only,,True
+TIG,CTCP Tập đoàn Đầu tư Thăng Long,Thang Long Investment Group Joint Stock Company,HNX,stock,1,3.0,Bất động sản,Bất động sản,listing_only,,True
+TJC,CTCP Dịch vụ Vận tải và Thương mại,Transportation and Trading Services Joint Stock Company,HNX,stock,1,23.0,Vận tải - kho bãi,Vận tải - kho bãi,listing_only,,True
+TKU,CTCP Công nghiệp Tung Kuang,Tung Kuang Industrial Joint Stock Company,HNX,stock,1,21.0,Vật liệu xây dựng,Vật liệu xây dựng,listing_only,,True
+TMB,CTCP Kinh doanh Than Miền Bắc - Vinacomin,Vinacomin - Northern Coal Trading Joint Stock Company,HNX,stock,1,10.0,Khai khoáng,Khai khoáng,listing_only,,True
+TMC,CTCP Thương mại Xuất nhập khẩu Thủ Đức,Thu Duc Trading and Import Export Joint Stock Company,HNX,stock,1,7.0,Bán lẻ,Bán lẻ,listing_only,,True
+TMX,CTCP VICEM Thương mại Xi măng,VICEM Cement Trading Joint Stock Company,HNX,stock,1,21.0,Vật liệu xây dựng,Vật liệu xây dựng,listing_only,,True
+TNG,CTCP Đầu tư và Thương mại TNG,TNG Investment and Trading Joint Stock Company,HNX,stock,1,16.0,SX Hàng gia dụng,SX Hàng gia dụng,listing_only,,True
+TOT,CTCP Transimex Logistics,Transimex Logistics Corporation,HNX,stock,1,23.0,Vận tải - kho bãi,Vận tải - kho bãi,listing_only,,True
+TPP,CTCP Tân Phú Việt Nam,Tan Phu Viet Nam Joint Stock Company,HNX,stock,1,18.0,SX Nhựa - Hóa chất,SX Nhựa - Hóa chất,listing_only,,True
+TSB,CTCP Ắc quy Tia Sáng,Tia Sang Battery Joint Stock Company,HNX,stock,1,27.0,Thiết bị điện,Thiết bị điện,listing_only,,True
+TTC,CTCP Gạch men Thanh Thanh,Thanh Thanh Joint Stock Company,HNX,stock,1,21.0,Vật liệu xây dựng,Vật liệu xây dựng,listing_only,,True
+TTH,CTCP Thương mại và Dịch vụ Tiến Thành,Tien Thanh Service and Trading Joint Stock Company,HNX,stock,1,1.0,Bán buôn,Bán buôn,listing_only,,True
+TTL,Tổng Công ty Thăng Long - CTCP,Thang Long Joint Stock Corporation,HNX,stock,1,24.0,Xây dựng,Xây dựng,listing_only,,True
+TTT,CTCP Du lịch - Thương mại Tây Ninh,Tay Ninh Tourist - Trading Joint Stock Company,HNX,stock,1,25.0,"Dịch vụ lưu trú, ăn uống, giải trí","Dịch vụ lưu trú, ăn uống, giải trí",listing_only,,True
+TV3,CTCP Tư vấn Xây dựng Điện 3,Power Engineering Consulting Joint Stock Company 3,HNX,stock,1,28.0,"Dịch vụ tư vấn, hỗ trợ","Dịch vụ tư vấn, hỗ trợ",listing_only,,True
+TV4,CTCP Tư vấn Xây dựng Điện 4,Power Engineering Consulting Joint Stock Company 4,HNX,stock,1,28.0,"Dịch vụ tư vấn, hỗ trợ","Dịch vụ tư vấn, hỗ trợ",listing_only,,True
+TVD,CTCP Than Vàng Danh - Vinacomin,Vinacomin - Vang Danh Coal Joint Stock Company,HNX,stock,1,10.0,Khai khoáng,Khai khoáng,listing_only,,True
+TXM,CTCP VICEM Thạch cao Xi măng,VICEM Gypsum And Cement Joint Stock Company,HNX,stock,1,21.0,Vật liệu xây dựng,Vật liệu xây dựng,listing_only,,True
+UNI,CTCP Đầu Tư Và Phát Triển Sao Mai Việt,Sao Mai Viet Investment And Development Joint Stock Company,HNX,stock,1,1.0,Bán buôn,Bán buôn,listing_only,,True
+V12,CTCP Xây dựng Số 12,Viet Nam Construction Joint Stock Company No 12,HNX,stock,1,24.0,Xây dựng,Xây dựng,listing_only,,True
+V21,CTCP Vinaconex 21,Vinaconex 21 Joint Stock Company,HNX,stock,1,3.0,Bất động sản,Bất động sản,listing_only,,True
+VBC,CTCP Nhựa - Bao bì Vinh,Vinh Plastic and Bags Joint Stock Company,HNX,stock,1,18.0,SX Nhựa - Hóa chất,SX Nhựa - Hóa chất,listing_only,,True
+VC1,CTCP Xây dựng Số 1,Construction Joint Stock Company No 1,HNX,stock,1,24.0,Xây dựng,Xây dựng,listing_only,,True
+VC2,CTCP Đầu tư và Xây dựng Vina2,VINA2 Investment and Construction Joint Stock Company,HNX,stock,1,24.0,Xây dựng,Xây dựng,listing_only,,True
+VC3,CTCP Tập đoàn Nam Mê Kông,Nam MeKong Group Joint Stock Company,HNX,stock,1,3.0,Bất động sản,Bất động sản,listing_only,,True
+VC6,CTCP Xây dựng và Đầu tư Visicons,Visicons Construction and Investment Joint Stock Company,HNX,stock,1,24.0,Xây dựng,Xây dựng,listing_only,,True
+VC7,CTCP Tập đoàn BGI,BGI Group Joint Stock Company,HNX,stock,1,3.0,Bất động sản,Bất động sản,listing_only,,True
+VC9,CTCP Xây dựng số 9 - VC9,VC9 - NO 9 Construction Joint Stock Company,HNX,stock,1,24.0,Xây dựng,Xây dựng,listing_only,,True
+VCC,CTCP Vinaconex 25,Vinaconex 25 Joint Stock Company,HNX,stock,1,24.0,Xây dựng,Xây dựng,listing_only,,True
+VCM,CTCP BV Life,BV Life Joint Stock Company,HNX,stock,1,1.0,Bán buôn,Bán buôn,listing_only,,True
+VCS,CTCP Vicostone,Vicostone Joint Stock Company,HNX,stock,1,21.0,Vật liệu xây dựng,Vật liệu xây dựng,listing_only,,True
+VDL,CTCP Thực phẩm Lâm Đồng,Lam Dong Foodstuffs Joint Stock Company,HNX,stock,1,19.0,Thực phẩm - Đồ uống,Thực phẩm - Đồ uống,listing_only,,True
+VE1,CTCP Xây dựng Điện VNECO 1,VNECO 1 Electricity Construction Joint Stock Company,HNX,stock,1,24.0,Xây dựng,Xây dựng,listing_only,,True
+VE3,CTCP Xây dựng Điện VNECO 3,VNECO 3 Electricity Construction Joint Stock Company,HNX,stock,1,24.0,Xây dựng,Xây dựng,listing_only,,True
+VE4,CTCP Xây dựng Điện VNECO4,VNECO4 Electricity Construction Joint Stock Company,HNX,stock,1,24.0,Xây dựng,Xây dựng,listing_only,,True
+VGP,CTCP Cảng Rau Quả,The Vegetexco Port Joint Stock Company,HNX,stock,1,23.0,Vận tải - kho bãi,Vận tải - kho bãi,listing_only,,True
+VGS,CTCP Ống thép Việt - Đức VG PIPE,Vietnam Germany Steel Pipe Joint Stock Company,HNX,stock,1,21.0,Vật liệu xây dựng,Vật liệu xây dựng,listing_only,,True
+VHE,CTCP Dược liệu và Thực phẩm Việt Nam,Vietnam Herbs and Foods Joint Stock Company,HNX,stock,1,19.0,Thực phẩm - Đồ uống,Thực phẩm - Đồ uống,listing_only,,True
+VHL,CTCP Viglacera Hạ Long,Viglacera Ha Long Joint Stock Company,HNX,stock,1,21.0,Vật liệu xây dựng,Vật liệu xây dựng,listing_only,,True
+VIF,Tổng Công ty Lâm nghiệp Việt Nam - CTCP,Viet Nam Forestry Corporation Joint Stock Company,HNX,stock,1,12.0,Nông - Lâm - Ngư,Nông - Lâm - Ngư,listing_only,,True
+VIT,CTCP Viglacera Tiên Sơn,Viglacera Tien Son Joint Stock Company,HNX,stock,1,21.0,Vật liệu xây dựng,Vật liệu xây dựng,listing_only,,True
+VLA,CTCP Đầu tư và Phát triển Công nghệ Văn Lang,Van Lang Technology Development and Investment Joint Stock Company,HNX,stock,1,,,,listing_only,,True
+VMC,CTCP Vimeco,Vimeco Joint Stock Company,HNX,stock,1,24.0,Xây dựng,Xây dựng,listing_only,,True
+VMS,CTCP Phát triển Hàng Hải,Vietnam Maritime Development Joint Stock Company,HNX,stock,1,23.0,Vận tải - kho bãi,Vận tải - kho bãi,listing_only,,True
+VNC,CTCP Tập đoàn Vinacontrol,Vinacontrol Group Corporation,HNX,stock,1,28.0,"Dịch vụ tư vấn, hỗ trợ","Dịch vụ tư vấn, hỗ trợ",listing_only,,True
+VNF,CTCP Vinafreight,Vinafreight Joint Stock Company,HNX,stock,1,23.0,Vận tải - kho bãi,Vận tải - kho bãi,listing_only,,True
+VNT,CTCP Giao nhận Vận tải Ngoại thương,The Van Cargoes And Foreign Trade Logistics Joint Stock Company,HNX,stock,1,23.0,Vận tải - kho bãi,Vận tải - kho bãi,listing_only,,True
+VSA,CTCP Đại lý Hàng hải Việt Nam,Vietnam Ocean Shipping Agency Corporation,HNX,stock,1,23.0,Vận tải - kho bãi,Vận tải - kho bãi,listing_only,,True
+VSM,CTCP Container Miền Trung,Central Container Joint Stock Company,HNX,stock,1,23.0,Vận tải - kho bãi,Vận tải - kho bãi,listing_only,,True
+VTC,CTCP Viễn thông VTC,VTC Telecommunications Joint Stock Company,HNX,stock,1,6.0,Công nghệ và thông tin,Công nghệ và thông tin,listing_only,,True
+VTH,CTCP Dây cáp Điện Việt Thái,Viet Thai Electric Cable Corporation,HNX,stock,1,27.0,Thiết bị điện,Thiết bị điện,listing_only,,True
+VTJ,CTCP Thương mại và Đầu tư VI NA TA BA,VI NA TA BA Trading & Investment Joint Stock Company,HNX,stock,1,3.0,Bất động sản,Bất động sản,listing_only,,True
+VTV,CTCP Năng lượng và Môi trường VICEM,VICEM Energy And Environment Joint Stock Company,HNX,stock,1,1.0,Bán buôn,Bán buôn,listing_only,,True
+VTZ,CTCP Sản xuất và Thương mại Nhựa Việt Thành,Viet Thanh Plastic Trading And Manufacturing Joint Stock Company,HNX,stock,1,18.0,SX Nhựa - Hóa chất,SX Nhựa - Hóa chất,listing_only,,True
+WCS,CTCP Bến xe Miền Tây,West Coach Station Joint Stock Company,HNX,stock,1,23.0,Vận tải - kho bãi,Vận tải - kho bãi,listing_only,,True
+X20,CTCP X20,X20 Joint Stock Company,HNX,stock,1,16.0,SX Hàng gia dụng,SX Hàng gia dụng,listing_only,,True
+AAA,CTCP Nhựa An Phát Xanh,An Phat Bioplastics Joint Stock Company,HOSE,stock,1,18.0,SX Nhựa - Hóa chất,SX Nhựa - Hóa chất,listing_only,,True
+AAM,CTCP Thủy sản MeKong,Mekong Fisheries Joint Stock Company,HOSE,stock,1,20.0,Chế biến Thủy sản,Chế biến Thủy sản,listing_only,,True
+AAN,CTCP Lương thực A An,A An Food Joint Stock Company,HOSE,stock,1,12.0,Nông - Lâm - Ngư,Nông - Lâm - Ngư,listing_only,,True
+AAT,CTCP Tập Đoàn Tiên Sơn Thanh Hóa ,Tien Son Thanh Hoa Group Joint Stock Company,HOSE,stock,1,16.0,SX Hàng gia dụng,SX Hàng gia dụng,listing_only,,True
+ABR,CTCP Đầu tư Nhãn hiệu Việt,Viet Brand Invest Joint Stock Company,HOSE,stock,1,6.0,Công nghệ và thông tin,Công nghệ và thông tin,listing_only,,True
+ABS,CTCP Dịch vụ Nông nghiệp Bình Thuận,BinhThuan Agriculture Services Joint Stock Company,HOSE,stock,1,18.0,SX Nhựa - Hóa chất,SX Nhựa - Hóa chất,listing_only,,True
+ABT,CTCP Xuất nhập khẩu Thủy sản Bến Tre,Bentre Aquaproduct Import And Export JSC,HOSE,stock,1,20.0,Chế biến Thủy sản,Chế biến Thủy sản,listing_only,,True
+ACC,CTCP Đầu tư và Xây dựng Bình Dương ACC,ACC Binh Duong Investment and Construction Joint Stock Company,HOSE,stock,1,21.0,Vật liệu xây dựng,Vật liệu xây dựng,listing_only,,True
+ACG,CTCP Gỗ An Cường,An Cuong Wood - Working Joint Stock Company,HOSE,stock,1,26.0,SX Phụ trợ,SX Phụ trợ,listing_only,,True
+ACL,CTCP Xuất nhập khẩu Thủy sản Cửu Long An Giang,Cuu Long Fish Joint Stock Company,HOSE,stock,1,20.0,Chế biến Thủy sản,Chế biến Thủy sản,listing_only,,True
+ADG,CTCP Clever Group,Clever Group Corporation,HOSE,stock,1,,,,listing_only,,True
+ADP,CTCP Sơn Á Đông,A Dong Paint Stock Company,HOSE,stock,1,18.0,SX Nhựa - Hóa chất,SX Nhựa - Hóa chất,listing_only,,True
+ADS,CTCP Damsan,Damsan Joint Stock Company,HOSE,stock,1,16.0,SX Hàng gia dụng,SX Hàng gia dụng,listing_only,,True
+AFX,CTCP Xuất nhập khẩu Nông sản Thực phẩm An Giang,An Giang Agriculture and Foods Import - Export Joint Stock Company,HOSE,stock,1,19.0,Thực phẩm - Đồ uống,Thực phẩm - Đồ uống,listing_only,,True
+AGG,CTCP Đầu tư và Phát triển Bất động sản An Gia,An Gia Real Estate Investment and Development Corporation,HOSE,stock,1,3.0,Bất động sản,Bất động sản,listing_only,,True
+ANT,CTCP Rau quả Thực phẩm An Giang,An Giang Fruit-Vegetables & Foodstuff Joint Stock Company,HOSE,stock,1,19.0,Thực phẩm - Đồ uống,Thực phẩm - Đồ uống,listing_only,,True
+ANV,CTCP Nam Việt,Nam Viet Corporation,HOSE,stock,1,20.0,Chế biến Thủy sản,Chế biến Thủy sản,listing_only,,True
+APH,CTCP Tập đoàn An Phát Holdings,An Phat Holdings Joint Stock Company,HOSE,stock,1,18.0,SX Nhựa - Hóa chất,SX Nhựa - Hóa chất,listing_only,,True
+ASG,CTCP Tập đoàn ASG,ASG Corporation,HOSE,stock,1,23.0,Vận tải - kho bãi,Vận tải - kho bãi,listing_only,,True
+ASM,CTCP Tập đoàn Sao Mai,Sao Mai Group Corporation,HOSE,stock,1,20.0,Chế biến Thủy sản,Chế biến Thủy sản,listing_only,,True
+ASP,CTCP Tập đoàn Dầu khí An Pha,An Pha Petrol Joint Stock Company,HOSE,stock,1,22.0,Tiện ích,Tiện ích,listing_only,,True
+AST,CTCP Dịch vụ Hàng không Taseco,Taseco Air Services Joint Stock Company,HOSE,stock,1,23.0,Vận tải - kho bãi,Vận tải - kho bãi,listing_only,,True
+BAF,CTCP Nông nghiệp BAF Việt Nam,BAF Viet Nam Agriculture Joint Stock Company,HOSE,stock,1,19.0,Thực phẩm - Đồ uống,Thực phẩm - Đồ uống,listing_only,,True
+BCE,CTCP Xây dựng và Giao thông Bình Dương,Becamex Construction & Civil Engineering Joint Stock Company,HOSE,stock,1,3.0,Bất động sản,Bất động sản,listing_only,,True
+BCG,CTCP Tập đoàn Bamboo Capital,Bamboo Capital Group Joint Stock Company,HOSE,stock,1,24.0,Xây dựng,Xây dựng,listing_only,,True
+BCM,Tập đoàn Đầu tư và Phát triển Công nghiệp Becamex - CTCP,Becamex Investment And Industrial Development Group,HOSE,stock,1,3.0,Bất động sản,Bất động sản,listing_only,,True
+BFC,CTCP Phân bón Bình Điền,Binh Dien Fertilizer Joint Stock Company,HOSE,stock,1,18.0,SX Nhựa - Hóa chất,SX Nhựa - Hóa chất,listing_only,,True
+BHN,Tổng Công ty cổ phần Bia - Rượu - Nước giải khát Hà Nội,Hanoi Beer Alcohol and Beverage Joint Stock Corporation,HOSE,stock,1,19.0,Thực phẩm - Đồ uống,Thực phẩm - Đồ uống,listing_only,,True
+BKG,CTCP Đầu tư BKG Việt Nam,BKG Viet Nam Investment Joint Stock Company,HOSE,stock,1,26.0,SX Phụ trợ,SX Phụ trợ,listing_only,,True
+BMC,CTCP Khoáng sản Bình Định,Binh Dinh Minerals Joint Stock Company,HOSE,stock,1,10.0,Khai khoáng,Khai khoáng,listing_only,,True
+BMP,CTCP Nhựa Bình Minh,Binh Minh Plastics Joint Stock Company,HOSE,stock,1,18.0,SX Nhựa - Hóa chất,SX Nhựa - Hóa chất,listing_only,,True
+BRC,CTCP Cao su Bến Thành,Ben Thanh Rubber Joint Stock Company,HOSE,stock,1,17.0,Sản phẩm cao su,Sản phẩm cao su,listing_only,,True
+BSR,CTCP - Tổng Công ty Lọc hóa dầu Việt Nam,Petrovietnam Refining And Petrochemical Corporation,HOSE,stock,1,26.0,SX Phụ trợ,SX Phụ trợ,listing_only,,True
+BTP,CTCP Nhiệt điện Bà Rịa,BaRia Thermal Power Joint Stock Company,HOSE,stock,1,22.0,Tiện ích,Tiện ích,listing_only,,True
+BTT,CTCP Thương mại Dịch vụ Bến Thành,Ben Thanh Trading & Service Joint Stock Company,HOSE,stock,1,7.0,Bán lẻ,Bán lẻ,listing_only,,True
+BWE,CTCP - Tổng công ty nước - môi trường Bình Dương,Binh Duong Water - Environment Corporation - Joint Stock Company,HOSE,stock,1,22.0,Tiện ích,Tiện ích,listing_only,,True
+C32,CTCP Đầu tư và Xây dựng 3-2,3-2 Investment and Construction Joint Stock Company,HOSE,stock,1,10.0,Khai khoáng,Khai khoáng,listing_only,,True
+C47,CTCP Xây dựng 47,Construction Joint Stock Company 47,HOSE,stock,1,24.0,Xây dựng,Xây dựng,listing_only,,True
+CCC,CTCP Xây dựng CDC,CDC Construction Joint Stock Company,HOSE,stock,1,24.0,Xây dựng,Xây dựng,listing_only,,True
+CCI,CTCP Đầu tư Phát triển Công nghiệp Thương mại Củ Chi,Cu Chi Commercial And Industrial Developing Investment Joint Stock Company,HOSE,stock,1,7.0,Bán lẻ,Bán lẻ,listing_only,,True
+CCL,CTCP Đầu tư và Phát triển Đô thị Dầu khí Cửu Long,Cuu Long Petro Urban Development and Investment Corporation,HOSE,stock,1,3.0,Bất động sản,Bất động sản,listing_only,,True
+CDC,CTCP Chương Dương,Chuong Duong Corporation,HOSE,stock,1,3.0,Bất động sản,Bất động sản,listing_only,,True
+CHP,CTCP Thủy điện Miền Trung,Central Hydropower Joint Stock Company,HOSE,stock,1,22.0,Tiện ích,Tiện ích,listing_only,,True
+CIG,CTCP COMA 18,COMA 18 Joint Stock Company,HOSE,stock,1,3.0,Bất động sản,Bất động sản,listing_only,,True
+CII,CTCP Đầu tư Hạ tầng Kỹ thuật Thành phố Hồ Chí Minh,Ho Chi Minh City Infrastructure Investment Joint Stock Company,HOSE,stock,1,24.0,Xây dựng,Xây dựng,listing_only,,True
+CKG,CTCP Tập đoàn CIC,CIC Group Joint Stock Company,HOSE,stock,1,3.0,Bất động sản,Bất động sản,listing_only,,True
+CLC,CTCP Cát Lợi,Cat Loi Joint Stock Company,HOSE,stock,1,,,,listing_only,,True
+CLL,CTCP Cảng Cát Lái,Cat Lai Port Joint Stock Company,HOSE,stock,1,23.0,Vận tải - kho bãi,Vận tải - kho bãi,listing_only,,True
+CLW,CTCP Cấp nước Chợ Lớn,Cholon Water Supply Joint Stock Company,HOSE,stock,1,22.0,Tiện ích,Tiện ích,listing_only,,True
+CMG,CTCP Tập đoàn Công nghệ CMC,CMC Corporation,HOSE,stock,1,6.0,Công nghệ và thông tin,Công nghệ và thông tin,listing_only,,True
+CMV,CTCP Thương nghiệp Cà Mau,Ca Mau Trading Joint Stock Company,HOSE,stock,1,7.0,Bán lẻ,Bán lẻ,listing_only,,True
+CMX,CTCP Camimex Group,Camimex Group Joint Stock Company,HOSE,stock,1,20.0,Chế biến Thủy sản,Chế biến Thủy sản,listing_only,,True
+CNG,CTCP CNG Việt Nam,CNG Viet Nam Joint Stock Company,HOSE,stock,1,22.0,Tiện ích,Tiện ích,listing_only,,True
+COM,CTCP Vật tư - Xăng Dầu,Materials - Petroleum Joint Stock Company,HOSE,stock,1,7.0,Bán lẻ,Bán lẻ,listing_only,,True
+CRC,CTCP Create Capital Việt Nam,Create Capital Viet Nam Joint Stock Company ,HOSE,stock,1,21.0,Vật liệu xây dựng,Vật liệu xây dựng,listing_only,,True
+CRE,CTCP Bất động sản Thế Kỷ,Century Land Joint Stock Company,HOSE,stock,1,3.0,Bất động sản,Bất động sản,listing_only,,True
+CRV,CTCP Tập đoàn Bất động sản CRV,CRV Real Estate Group Joint Stock Company,HOSE,stock,1,3.0,Bất động sản,Bất động sản,listing_only,,True
+CSM,CTCP Công nghiệp Cao su Miền Nam,The Southern Rubber Industry Joint Stock Company,HOSE,stock,1,17.0,Sản phẩm cao su,Sản phẩm cao su,listing_only,,True
+CSV,CTCP Hóa chất Cơ bản Miền Nam,South Basic Chemicals Joint Stock Company,HOSE,stock,1,18.0,SX Nhựa - Hóa chất,SX Nhựa - Hóa chất,listing_only,,True
+CTD,CTCP Xây dựng Coteccons,Coteccons Construction Joint Stock Company,HOSE,stock,1,24.0,Xây dựng,Xây dựng,listing_only,,True
+CTF,CTCP City Auto,City Auto Corporation,HOSE,stock,1,7.0,Bán lẻ,Bán lẻ,listing_only,,True
+CTI,CTCP Đầu tư Phát triển Cường Thuận IDICO,Cuong Thuan IDICO Development Investment Corporation,HOSE,stock,1,24.0,Xây dựng,Xây dựng,listing_only,,True
+CTR,Tổng Công ty cổ phần Công trình Viettel,Viettel Construction Joint Stock Corporation,HOSE,stock,1,6.0,Công nghệ và thông tin,Công nghệ và thông tin,listing_only,,True
+CVT,CTCP CMC,CMC Joint Stock Company,HOSE,stock,1,21.0,Vật liệu xây dựng,Vật liệu xây dựng,listing_only,,True
+D2D,CTCP Phát triển Đô thị Công nghiệp số 2,Industrial Urban Development Joint - Stock Company No 2,HOSE,stock,1,3.0,Bất động sản,Bất động sản,listing_only,,True
+DAH,CTCP Tập đoàn Khách sạn Đông Á,Dong A Hotel Group Joint Stock Company,HOSE,stock,1,25.0,"Dịch vụ lưu trú, ăn uống, giải trí","Dịch vụ lưu trú, ăn uống, giải trí",listing_only,,True
+DAT,CTCP Đầu tư du lịch và Phát triển Thủy sản,Travel Investment and Seafood Development Corporation,HOSE,stock,1,20.0,Chế biến Thủy sản,Chế biến Thủy sản,listing_only,,True
+DBC,CTCP Tập đoàn Dabaco Việt Nam,Dabaco Group,HOSE,stock,1,19.0,Thực phẩm - Đồ uống,Thực phẩm - Đồ uống,listing_only,,True
+DBD,CTCP Dược - Trang thiết bị Y tế Bình Định (Bidiphar),Binh Dinh Pharmaceutical and Medical Equipment Joint Stock Company,HOSE,stock,1,8.0,Chăm sóc sức khỏe,Chăm sóc sức khỏe,listing_only,,True
+DBT,CTCP Dược phẩm Bến Tre,Ben Tre Pharmaceutical Joint Stock Company,HOSE,stock,1,8.0,Chăm sóc sức khỏe,Chăm sóc sức khỏe,listing_only,,True
+DC4,CTCP DICERA Holdings,DICERA Holdings Joint Stock Company,HOSE,stock,1,24.0,Xây dựng,Xây dựng,listing_only,,True
+DCL,CTCP Dược phẩm Cửu Long,Cuu Long Pharmaceutical Joint Stock Corporation,HOSE,stock,1,8.0,Chăm sóc sức khỏe,Chăm sóc sức khỏe,listing_only,,True
+DCM,CTCP - Tổng công ty Phân bón Dầu khí Cà Mau,PetroVietnam Ca Mau Fertilizer Joint Stock Company,HOSE,stock,1,18.0,SX Nhựa - Hóa chất,SX Nhựa - Hóa chất,listing_only,,True
+DGC,CTCP Tập đoàn Hóa chất Đức Giang,DucGiang Chemicals Group Joint Stock Company,HOSE,stock,1,18.0,SX Nhựa - Hóa chất,SX Nhựa - Hóa chất,listing_only,,True
+DGW,CTCP Thế Giới Số,Digiworld Corp.,HOSE,stock,1,1.0,Bán buôn,Bán buôn,listing_only,,True
+DHA,CTCP Hóa An,Hoa An Joint Stock Company,HOSE,stock,1,10.0,Khai khoáng,Khai khoáng,listing_only,,True
+DHC,CTCP Đông Hải Bến Tre,Dong Hai Joint Stock Company of Ben Tre,HOSE,stock,1,26.0,SX Phụ trợ,SX Phụ trợ,listing_only,,True
+DHG,CTCP Dược Hậu Giang,DHG Pharmaceutical Joint Stock Company,HOSE,stock,1,8.0,Chăm sóc sức khỏe,Chăm sóc sức khỏe,listing_only,,True
+DHM,CTCP Đầu tư và Thương mại DHM,DHM Investment and Trading Joint Stock Company,HOSE,stock,1,10.0,Khai khoáng,Khai khoáng,listing_only,,True
+DIG,Tổng Công ty cổ phần Đầu tư Phát triển Xây dựng,Development Investment Construction Joint Stock Corporation,HOSE,stock,1,3.0,Bất động sản,Bất động sản,listing_only,,True
+DLG,CTCP Tập đoàn Đức Long Gia Lai,Duc Long Gia Lai Group Joint Stock Company,HOSE,stock,1,26.0,SX Phụ trợ,SX Phụ trợ,listing_only,,True
+DMC,CTCP Xuất nhập khẩu Y Tế DOMESCO,DOMESCO Medical Import-Export Joint Stock Corporation,HOSE,stock,1,8.0,Chăm sóc sức khỏe,Chăm sóc sức khỏe,listing_only,,True
+DPG,CTCP Tập đoàn Đạt Phương,Dat Phuong Group Joint Stock Company,HOSE,stock,1,24.0,Xây dựng,Xây dựng,listing_only,,True
+DPM,Tổng công ty Phân bón và Hóa chất Dầu khí - CTCP,Petrovietnam Fertilizer and Chemicals Corporation,HOSE,stock,1,18.0,SX Nhựa - Hóa chất,SX Nhựa - Hóa chất,listing_only,,True
+DPR,CTCP Cao su Đồng Phú,Dong Phu Rubber Joint Stock Company,HOSE,stock,1,18.0,SX Nhựa - Hóa chất,SX Nhựa - Hóa chất,listing_only,,True
+DQC,CTCP Tập đoàn Điện Quang,Dien Quang Group Joint Stock Company,HOSE,stock,1,27.0,Thiết bị điện,Thiết bị điện,listing_only,,True
+DRC,CTCP Cao su Đà Nẵng,Danang Rubber Joint Stock Company,HOSE,stock,1,17.0,Sản phẩm cao su,Sản phẩm cao su,listing_only,,True
+DRH,CTCP DRH Holdings,DRH Holdings JSC,HOSE,stock,1,3.0,Bất động sản,Bất động sản,listing_only,,True
+DRL,CTCP Thủy điện - Điện Lực 3,Hydro Power Joint Stock Company - Power No.3,HOSE,stock,1,22.0,Tiện ích,Tiện ích,listing_only,,True
+DSN,CTCP Công viên nước Đầm Sen,Dam Sen Water Park Corporation,HOSE,stock,1,25.0,"Dịch vụ lưu trú, ăn uống, giải trí","Dịch vụ lưu trú, ăn uống, giải trí",listing_only,,True
+DTA,CTCP Đệ Tam,De Tam Joint Stock Company,HOSE,stock,1,3.0,Bất động sản,Bất động sản,listing_only,,True
+DTL,CTCP Đại Thiên Lộc,Dai Thien Loc Corporation,HOSE,stock,1,21.0,Vật liệu xây dựng,Vật liệu xây dựng,listing_only,,True
+DTT,CTCP Kỹ nghệ Đô Thành,Do Thanh Technology Corporation,HOSE,stock,1,18.0,SX Nhựa - Hóa chất,SX Nhựa - Hóa chất,listing_only,,True
+DVP,CTCP Đầu tư và Phát triển Cảng Đình Vũ,DinhVu Port Investment & Development Joint Stock Company,HOSE,stock,1,23.0,Vận tải - kho bãi,Vận tải - kho bãi,listing_only,,True
+DXG,CTCP Bluemarq Group,Bluemarq Group Joint Stock Company,HOSE,stock,1,3.0,Bất động sản,Bất động sản,listing_only,,True
+DXS,CTCP Dịch vụ Bất động sản Đất Xanh,Dat Xanh Real Estate Services Joint Stock Company,HOSE,stock,1,3.0,Bất động sản,Bất động sản,listing_only,,True
+DXV,CTCP VICEM Vật liệu Xây dựng Đà Nẵng,Da Nang Building Material VICCEM Joint Stock Company,HOSE,stock,1,21.0,Vật liệu xây dựng,Vật liệu xây dựng,listing_only,,True
+ELC,CTCP Công Nghệ - Viễn Thông Elcom,Elcom Technology Communications Corporation,HOSE,stock,1,6.0,Công nghệ và thông tin,Công nghệ và thông tin,listing_only,,True
+EVE,CTCP Everpia,Everpia Joint Stock Company,HOSE,stock,1,16.0,SX Hàng gia dụng,SX Hàng gia dụng,listing_only,,True
+EVG,CTCP Tập đoàn EverLand,Everland Group Joint Stock Company,HOSE,stock,1,3.0,Bất động sản,Bất động sản,listing_only,,True
+FCM,CTCP Bê tông Phan Vũ Hà Nam,Phan Vu Ha Nam Concrete Joint Stock Company,HOSE,stock,1,21.0,Vật liệu xây dựng,Vật liệu xây dựng,listing_only,,True
+FCN,CTCP FECON,FECON CORPORATION,HOSE,stock,1,24.0,Xây dựng,Xây dựng,listing_only,,True
+FDC,CTCP Ngoại thương và Phát triển Đầu tư Thành phố Hồ Chí Minh,Foreign Trade Development & Investment Corporation of HCMC,HOSE,stock,1,3.0,Bất động sản,Bất động sản,listing_only,,True
+FIR,CTCP Địa ốc First Real,First Real Joint Stock Company,HOSE,stock,1,3.0,Bất động sản,Bất động sản,listing_only,,True
+FIT,CTCP Tập đoàn F.I.T,F.I.T Group Joint Stock Company,HOSE,stock,1,8.0,Chăm sóc sức khỏe,Chăm sóc sức khỏe,listing_only,,True
+FMC,CTCP Thực phẩm Sao Ta,Sao Ta Foods Joint Stock Company ,HOSE,stock,1,20.0,Chế biến Thủy sản,Chế biến Thủy sản,listing_only,,True
+FPT,CTCP FPT,FPT Corporation,HOSE,stock,1,6.0,Công nghệ và thông tin,Công nghệ và thông tin,listing_only,,True
+FRT,CTCP Bán lẻ Kỹ thuật số FPT,FPT Digital Retail Joint Stock Company,HOSE,stock,1,7.0,Bán lẻ,Bán lẻ,listing_only,,True
+GAS,Tổng Công ty Khí Việt Nam - CTCP,PetroVietnam Gas Joint Stock Corporation,HOSE,stock,1,22.0,Tiện ích,Tiện ích,listing_only,,True
+GDT,CTCP Chế biến Gỗ Đức Thành,Duc Thanh Wood Processing Joint Stock Company,HOSE,stock,1,16.0,SX Hàng gia dụng,SX Hàng gia dụng,listing_only,,True
+GEE,CTCP Điện lực Gelex,Gelex Electricity Joint Stock Company,HOSE,stock,1,27.0,Thiết bị điện,Thiết bị điện,listing_only,,True
+GEG,CTCP Điện Gia Lai,Gia Lai Electricity Joint Stock Company,HOSE,stock,1,22.0,Tiện ích,Tiện ích,listing_only,,True
+GEL,CTCP Hạ tầng GELEX,Gelex Infrastructure Joint Stock Company,HOSE,stock,1,1.0,Bán buôn,Bán buôn,listing_only,,True
+GEX,CTCP Tập đoàn GELEX,GELEX Group Joint Stock Company,HOSE,stock,1,27.0,Thiết bị điện,Thiết bị điện,listing_only,,True
+GHC,CTCP Thủy điện Gia Lai,Gia Lai Hydropower Joint Stock Company,HOSE,stock,1,22.0,Tiện ích,Tiện ích,listing_only,,True
+GIL,CTCP Sản xuất Kinh doanh và Xuất nhập khẩu Bình Thạnh,Binh Thanh Import Export Production and Trade Joint Stock Company,HOSE,stock,1,16.0,SX Hàng gia dụng,SX Hàng gia dụng,listing_only,,True
+GMD,CTCP Tập đoàn Gemadept,Gemadept Group Corporation,HOSE,stock,1,23.0,Vận tải - kho bãi,Vận tải - kho bãi,listing_only,,True
+GMH,CTCP Minh Hưng Quảng Trị,Quang Tri Minh Hung Joint Stock Company,HOSE,stock,1,21.0,Vật liệu xây dựng,Vật liệu xây dựng,listing_only,,True
+GSP,CTCP Vận tải Sản Phẩm Khí Quốc tế,International Gas Product Shipping Joint Stock Company,HOSE,stock,1,23.0,Vận tải - kho bãi,Vận tải - kho bãi,listing_only,,True
+GTA,CTCP Chế biến gỗ Thuận An,Thuan An Wood Processing Joint Stock Company,HOSE,stock,1,26.0,SX Phụ trợ,SX Phụ trợ,listing_only,,True
+GVR,Tập đoàn Công nghiệp Cao su Việt Nam - CTCP,Viet Nam Rubber Group - Joint Stock Company,HOSE,stock,1,18.0,SX Nhựa - Hóa chất,SX Nhựa - Hóa chất,listing_only,,True
+HAG,CTCP Hoàng Anh Gia Lai,Hoang Anh Gia Lai Joint Stock Company,HOSE,stock,1,12.0,Nông - Lâm - Ngư,Nông - Lâm - Ngư,listing_only,,True
+HAH,CTCP Vận tải và Xếp dỡ Hải An,Hai An Transport and Stevedoring Joint Stock Company,HOSE,stock,1,23.0,Vận tải - kho bãi,Vận tải - kho bãi,listing_only,,True
+HAP,CTCP Tập đoàn Hapaco,Hapaco Group Joint Stock Company,HOSE,stock,1,26.0,SX Phụ trợ,SX Phụ trợ,listing_only,,True
+HAR,CTCP Đầu tư Thương mại Bất động sản An Dương Thảo Điền,An Duong Thao Dien Real Estate Investment Joint Stock Company,HOSE,stock,1,3.0,Bất động sản,Bất động sản,listing_only,,True
+HAS,CTCP Hacisco,Hacisco Joint Stock Company,HOSE,stock,1,24.0,Xây dựng,Xây dựng,listing_only,,True
+HAX,CTCP Dịch vụ Ô tô Hàng Xanh,Hang Xanh Motors Service Joint Stock Company  ,HOSE,stock,1,7.0,Bán lẻ,Bán lẻ,listing_only,,True
+HCD,CTCP Đầu tư Sản xuất và Thương mại HCD,HCD Investment Producing and Trading Joint Stock Company ,HOSE,stock,1,18.0,SX Nhựa - Hóa chất,SX Nhựa - Hóa chất,listing_only,,True
+HDC,CTCP Phát triển Nhà Bà Rịa - Vũng Tàu,Ba Ria - Vung Tau House Development Joint Stock Company,HOSE,stock,1,3.0,Bất động sản,Bất động sản,listing_only,,True
+HDG,CTCP Tập đoàn Hà Đô,Ha Do Group Joint Stock Company,HOSE,stock,1,3.0,Bất động sản,Bất động sản,listing_only,,True
+HHP,CTCP HHP Global,HHP Global Joint Stock Company,HOSE,stock,1,26.0,SX Phụ trợ,SX Phụ trợ,listing_only,,True
+HHS,CTCP Đầu tư Dịch vụ Hoàng Huy,Hoang Huy Investment Services Joint Stock Company,HOSE,stock,1,1.0,Bán buôn,Bán buôn,listing_only,,True
+HHV,CTCP Đầu tư Hạ tầng Giao thông Đèo Cả,Deo Ca Traffic Infrastructure Investment Joint Stock Company,HOSE,stock,1,24.0,Xây dựng,Xây dựng,listing_only,,True
+HID,CTCP Halcom Việt Nam,Halcom Vietnam Joint Stock Company,HOSE,stock,1,22.0,Tiện ích,Tiện ích,listing_only,,True
+HII,CTCP An Tiến Industries,An Tien Industries Joint Stock Company,HOSE,stock,1,18.0,SX Nhựa - Hóa chất,SX Nhựa - Hóa chất,listing_only,,True
+HMC,CTCP Kim khí Thành phố Hồ Chí Minh - VNSTEEL,VNSTEEL - HoChiMinh City Metal Corporation,HOSE,stock,1,1.0,Bán buôn,Bán buôn,listing_only,,True
+HNA,CTCP Thủy điện Hủa Na,Hua Na Hydropower Joint Stock Company,HOSE,stock,1,22.0,Tiện ích,Tiện ích,listing_only,,True
+HPA,CTCP Phát triển Nông nghiệp Hòa Phát,Hoa Phat Agriculture Development Joint Stock Company,HOSE,stock,1,12.0,Nông - Lâm - Ngư,Nông - Lâm - Ngư,listing_only,,True
+HPG,CTCP Tập đoàn Hòa Phát,Hoa Phat Group Joint Stock Company,HOSE,stock,1,21.0,Vật liệu xây dựng,Vật liệu xây dựng,listing_only,,True
+HPX,CTCP Đầu tư Hải Phát,Hai Phat Investment Joint Stock Company,HOSE,stock,1,3.0,Bất động sản,Bất động sản,listing_only,,True
+HQC,CTCP Tư vấn Thương mại Dịch vụ Địa Ốc Hoàng Quân,Hoang Quan Consulting-Trading-Service Real Estate Corporation,HOSE,stock,1,3.0,Bất động sản,Bất động sản,listing_only,,True
+HRC,CTCP Cao su Hòa Bình,Hoa Binh Rubber Joint Stock Company,HOSE,stock,1,18.0,SX Nhựa - Hóa chất,SX Nhựa - Hóa chất,listing_only,,True
+HSG,CTCP Tập đoàn Hoa Sen,Hoa Sen Group,HOSE,stock,1,21.0,Vật liệu xây dựng,Vật liệu xây dựng,listing_only,,True
+HSL,CTCP Đầu tư Phát triển Thực phẩm Hồng Hà,Hong Ha Food Investment Development Joint Stock Company,HOSE,stock,1,12.0,Nông - Lâm - Ngư,Nông - Lâm - Ngư,listing_only,,True
+HT1,CTCP Xi Măng Vicem Hà Tiên,Vicem Ha Tien Cement Joint Stock Company,HOSE,stock,1,21.0,Vật liệu xây dựng,Vật liệu xây dựng,listing_only,,True
+HTG,Tổng Công ty cổ phần Dệt may Hòa Thọ,Hoa Tho Textile - Garment Joint Stock Corporation,HOSE,stock,1,16.0,SX Hàng gia dụng,SX Hàng gia dụng,listing_only,,True
+HTI,CTCP Đầu tư Phát triển Hạ tầng IDICO,IDICO Infrastructure Development Investment Joint Stock Company,HOSE,stock,1,24.0,Xây dựng,Xây dựng,listing_only,,True
+HTL,CTCP Kỹ thuật và Ô tô Trường Long,Truong Long Engineering and Auto Joint Stock Company,HOSE,stock,1,1.0,Bán buôn,Bán buôn,listing_only,,True
+HTN,CTCP Hưng Thịnh Incons,Hung Thinh Incons Joint Stock Company,HOSE,stock,1,24.0,Xây dựng,Xây dựng,listing_only,,True
+HTV,CTCP Logistics Vicem,Logistics Vicem Joint Stock Company ,HOSE,stock,1,23.0,Vận tải - kho bãi,Vận tải - kho bãi,listing_only,,True
+HU1,CTCP Đầu tư và Xây dựng HUD1,HUD1 Investment and Construction Joint Stock Company,HOSE,stock,1,3.0,Bất động sản,Bất động sản,listing_only,,True
+HUB,CTCP Xây lắp Thừa Thiên Huế,Thua Thien Hue Construction Joint Stock Corporation,HOSE,stock,1,24.0,Xây dựng,Xây dựng,listing_only,,True
+HVH,CTCP Đầu tư và Công nghệ HVC,HVC Investment and Technology Joint Stock Company,HOSE,stock,1,24.0,Xây dựng,Xây dựng,listing_only,,True
+HVN,Tổng Công ty Hàng không Việt Nam - CTCP,Vietnam Airlines Joint Stock Company,HOSE,stock,1,23.0,Vận tải - kho bãi,Vận tải - kho bãi,listing_only,,True
+ICT,CTCP Viễn thông - Tin học Bưu điện,Joint Stock Company for Telecom and Informatics,HOSE,stock,1,6.0,Công nghệ và thông tin,Công nghệ và thông tin,listing_only,,True
+IDI,CTCP Đầu tư và Phát triển Đa Quốc Gia - IDI,I.D.I International Development and Investment Corporation,HOSE,stock,1,20.0,Chế biến Thủy sản,Chế biến Thủy sản,listing_only,,True
+IJC,CTCP Phát triển Hạ tầng Kỹ thuật,Becamex Infrastructure Development Joint Stock Company,HOSE,stock,1,3.0,Bất động sản,Bất động sản,listing_only,,True
+ILB,CTCP ICD Tân Cảng - Long Bình,ICD Tan Cang - Long Binh Joint Stock Company,HOSE,stock,1,23.0,Vận tải - kho bãi,Vận tải - kho bãi,listing_only,,True
+IMP,CTCP Dược phẩm Imexpharm,Imexpharm Corporation,HOSE,stock,1,8.0,Chăm sóc sức khỏe,Chăm sóc sức khỏe,listing_only,,True
+ITC,CTCP Đầu tư và Kinh doanh Nhà,Investment and Trading of Real Estate Joint stock Company,HOSE,stock,1,3.0,Bất động sản,Bất động sản,listing_only,,True
+ITD,CTCP Công nghệ ITD,ITD Technology Corporation,HOSE,stock,1,6.0,Công nghệ và thông tin,Công nghệ và thông tin,listing_only,,True
+JVC,CTCP Đầu tư Y tế - Dược phẩm Việt Nam,Vitenam Medical And Pharmaceutical Investment Joint Stock Company,HOSE,stock,1,1.0,Bán buôn,Bán buôn,listing_only,,True
+KBC,Tổng Công ty Phát triển Đô thị Kinh Bắc - CTCP,Kinh Bac City Development Holding Corporation,HOSE,stock,1,3.0,Bất động sản,Bất động sản,listing_only,,True
+KDC,CTCP Tập đoàn KIDO,KIDO Group Corporation,HOSE,stock,1,19.0,Thực phẩm - Đồ uống,Thực phẩm - Đồ uống,listing_only,,True
+KDH,CTCP Đầu tư và Kinh doanh Nhà Khang Điền,Khang Dien House Trading and Investment Joint Stock Company,HOSE,stock,1,3.0,Bất động sản,Bất động sản,listing_only,,True
+KHG,CTCP Tập đoàn Khải Hoàn Land,Khai Hoan Land Group Joint Stock Company,HOSE,stock,1,3.0,Bất động sản,Bất động sản,listing_only,,True
+KHP,CTCP Điện lực Khánh Hòa,Khanh Hoa Power Joint Stock Company,HOSE,stock,1,22.0,Tiện ích,Tiện ích,listing_only,,True
+KMR,CTCP Mirae,Mirae Joint Stock Company,HOSE,stock,1,16.0,SX Hàng gia dụng,SX Hàng gia dụng,listing_only,,True
+KOS,CTCP KOSY,KOSY Joint Stock Company,HOSE,stock,1,3.0,Bất động sản,Bất động sản,listing_only,,True
+KSB,CTCP Khoáng sản và Xây dựng Bình Dương,Binh Duong Mineral and Construction Joint Stock Company,HOSE,stock,1,10.0,Khai khoáng,Khai khoáng,listing_only,,True
+L10,CTCP Lilama 10,Lilama 10 Joint Stock Company,HOSE,stock,1,24.0,Xây dựng,Xây dựng,listing_only,,True
+LAF,CTCP Chế biến hàng Xuất khẩu Long An,Long An Food Processing Export Joint Stock Company,HOSE,stock,1,19.0,Thực phẩm - Đồ uống,Thực phẩm - Đồ uống,listing_only,,True
+LBM,CTCP Khoáng sản và Vật liệu Xây dựng Lâm Đồng,LamDong Minerals and Building Materials Joint Stock Company,HOSE,stock,1,21.0,Vật liệu xây dựng,Vật liệu xây dựng,listing_only,,True
+LCG,CTCP Lizen,Lizen Joint Stock Company,HOSE,stock,1,24.0,Xây dựng,Xây dựng,listing_only,,True
+LDG,CTCP Đầu tư LDG,LDG Investment Joint stock Company,HOSE,stock,1,3.0,Bất động sản,Bất động sản,listing_only,,True
+LGC,CTCP Đầu tư Cầu đường CII,CII Bridges and Roads Investment Joint Stock Company,HOSE,stock,1,24.0,Xây dựng,Xây dựng,listing_only,,True
+LGL,CTCP Đầu tư và Phát triển Đô thị Long Giang,Long Giang Investment and Urban Development Joint-Stock Company,HOSE,stock,1,3.0,Bất động sản,Bất động sản,listing_only,,True
+LHG,CTCP Long Hậu,Long Hau Corporation,HOSE,stock,1,3.0,Bất động sản,Bất động sản,listing_only,,True
+LIX,CTCP Bột Giặt Lix,Lix Detergent Joint Stock Company,HOSE,stock,1,18.0,SX Nhựa - Hóa chất,SX Nhựa - Hóa chất,listing_only,,True
+LM8,CTCP Lilama 18,Lilama 18 Joint Stock Company,HOSE,stock,1,24.0,Xây dựng,Xây dựng,listing_only,,True
+LSS,CTCP Mía Đường Lam Sơn,Lam Son Sugar Joint Stock Corporation,HOSE,stock,1,19.0,Thực phẩm - Đồ uống,Thực phẩm - Đồ uống,listing_only,,True
+MCH,CTCP Hàng tiêu dùng Masan,Masan Consumer Corporation,HOSE,stock,1,19.0,Thực phẩm - Đồ uống,Thực phẩm - Đồ uống,listing_only,,True
+MCM,CTCP Giống Bò sữa Mộc Châu,MocChau Dairy Cattle Breeding Joint Stock Company,HOSE,stock,1,19.0,Thực phẩm - Đồ uống,Thực phẩm - Đồ uống,listing_only,,True
+MCP,CTCP In và Bao bì Mỹ Châu,MyChau Printing and Packaging Corporation,HOSE,stock,1,26.0,SX Phụ trợ,SX Phụ trợ,listing_only,,True
+MDG,CTCP Miền Đông,Mien Dong Joint Stock Company,HOSE,stock,1,10.0,Khai khoáng,Khai khoáng,listing_only,,True
+MHC,CTCP MHC,MHC Joint Stock Company,HOSE,stock,1,23.0,Vận tải - kho bãi,Vận tải - kho bãi,listing_only,,True
+MSH,CTCP May Sông Hồng,Song Hong Garment Joint Stock Company,HOSE,stock,1,16.0,SX Hàng gia dụng,SX Hàng gia dụng,listing_only,,True
+MSN,CTCP Tập đoàn Masan,Masan Group Corporation,HOSE,stock,1,19.0,Thực phẩm - Đồ uống,Thực phẩm - Đồ uống,listing_only,,True
+MWG,CTCP Đầu tư Thế giới Di động,Mobile World Investment Corporation,HOSE,stock,1,7.0,Bán lẻ,Bán lẻ,listing_only,,True
+MZG,CTCP Miza,Miza Corporation,HOSE,stock,1,26.0,SX Phụ trợ,SX Phụ trợ,listing_only,,True
+NAF,CTCP Nafoods Group,Nafoods Group Joint Stock Company,HOSE,stock,1,19.0,Thực phẩm - Đồ uống,Thực phẩm - Đồ uống,listing_only,,True
+NAV,CTCP Nam Việt,Nam Viet Joint Stock Company,HOSE,stock,1,16.0,SX Hàng gia dụng,SX Hàng gia dụng,listing_only,,True
+NBB,CTCP Đầu tư Năm Bảy Bảy,577 Investment Corporation,HOSE,stock,1,3.0,Bất động sản,Bất động sản,listing_only,,True
+NCT,CTCP Dịch vụ Hàng hóa Nội Bài,NoiBai Cargo Terminal Services Joint Stock Company,HOSE,stock,1,23.0,Vận tải - kho bãi,Vận tải - kho bãi,listing_only,,True
+NHA,Tổng Công ty Đầu tư Phát triển Nhà và Đô thị Nam Hà Nội,Ha Noi South Housing and Urban Development Corporation,HOSE,stock,1,3.0,Bất động sản,Bất động sản,listing_only,,True
+NHH,CTCP Nhựa Hà Nội,HaNoi Plastics Joint Stock Company,HOSE,stock,1,15.0,"SX Thiết bị, máy móc","SX Thiết bị, máy móc",listing_only,,True
+NHT,CTCP Sản xuất và Thương mại Nam Hoa,Nam Hoa Trading & Production Corporation,HOSE,stock,1,26.0,SX Phụ trợ,SX Phụ trợ,listing_only,,True
+NKG,CTCP Thép Nam Kim,Nam Kim Steel Joint Stock Company,HOSE,stock,1,21.0,Vật liệu xây dựng,Vật liệu xây dựng,listing_only,,True
+NLG,CTCP Đầu tư Nam Long,Nam Long Investment Corporation,HOSE,stock,1,3.0,Bất động sản,Bất động sản,listing_only,,True
+NNC,CTCP Đá Núi Nhỏ,Nui Nho Stone Joint Stock Company,HOSE,stock,1,10.0,Khai khoáng,Khai khoáng,listing_only,,True
+NO1,CTCP Tập đoàn 911,911 Group Joint Stock Company,HOSE,stock,1,1.0,Bán buôn,Bán buôn,listing_only,,True
+NSC,CTCP Tập đoàn Giống cây trồng Việt Nam,Vietnam National Seed Group Joint Stock Company,HOSE,stock,1,12.0,Nông - Lâm - Ngư,Nông - Lâm - Ngư,listing_only,,True
+NT2,CTCP Điện lực Dầu khí Nhơn Trạch 2,PetroVietnam Power Nhon Trach 2 Joint Stock Company,HOSE,stock,1,22.0,Tiện ích,Tiện ích,listing_only,,True
+NTC,CTCP Khu Công nghiệp Nam Tân Uyên,Nam Tan Uyen Joint Stock Company,HOSE,stock,1,3.0,Bất động sản,Bất động sản,listing_only,,True
+NTL,CTCP Phát triển Đô thị Từ Liêm,Tu Liem Urban Development Joint-Stock Company,HOSE,stock,1,3.0,Bất động sản,Bất động sản,listing_only,,True
+NVL,CTCP Tập đoàn Đầu tư Địa ốc No Va ,No Va Land Investment Group Corporation ,HOSE,stock,1,3.0,Bất động sản,Bất động sản,listing_only,,True
+NVT,CTCP Bất động sản Du lịch Ninh Vân Bay,Ninh Van Bay Travel Real Estate Joint Stock Company,HOSE,stock,1,25.0,"Dịch vụ lưu trú, ăn uống, giải trí","Dịch vụ lưu trú, ăn uống, giải trí",listing_only,,True
+OPC,CTCP Dược phẩm OPC,OPC Pharmaceutical Joint Stock Company,HOSE,stock,1,8.0,Chăm sóc sức khỏe,Chăm sóc sức khỏe,listing_only,,True
+PAC,CTCP Pin Ắc quy Miền Nam,Dry Cell and Storage Battery Joint Stock Company,HOSE,stock,1,27.0,Thiết bị điện,Thiết bị điện,listing_only,,True
+PAN,CTCP Tập đoàn PAN,The PAN Group Joint Stock Company,HOSE,stock,1,19.0,Thực phẩm - Đồ uống,Thực phẩm - Đồ uống,listing_only,,True
+PC1,CTCP Tập Đoàn PC1,PC1 Group Joint Stock Company,HOSE,stock,1,24.0,Xây dựng,Xây dựng,listing_only,,True
+PDN,CTCP Cảng Đồng Nai,Dong Nai Port Joint Stock Company,HOSE,stock,1,23.0,Vận tải - kho bãi,Vận tải - kho bãi,listing_only,,True
+PDR,CTCP Phát triển Bất động sản Phát Đạt,Phat Dat Real Estate Development Corporation,HOSE,stock,1,3.0,Bất động sản,Bất động sản,listing_only,,True
+PDV,CTCP Vận Tải Và Tiếp Vận Phương Đông Việt,Phuong Dong Viet Shipping And Logistics Corporation,HOSE,stock,1,23.0,Vận tải - kho bãi,Vận tải - kho bãi,listing_only,,True
+PET,Tổng Công ty cổ phần Dịch vụ Tổng hợp Dầu khí,Petrovietnam General Services Corporation,HOSE,stock,1,1.0,Bán buôn,Bán buôn,listing_only,,True
+PGC,Tổng Công ty Gas Petrolimex - CTCP,Petrolimex Gas Corporation - Joint Stock Company,HOSE,stock,1,22.0,Tiện ích,Tiện ích,listing_only,,True
+PGD,CTCP Phân phối khí thấp áp Dầu khí Việt Nam,PetroVietNam Low Pressure Gas Distribution Joint Stock Company,HOSE,stock,1,22.0,Tiện ích,Tiện ích,listing_only,,True
+PGV,Tổng Công ty Phát điện 3 - CTCP,Power Generation Joint Stock Corporation 3,HOSE,stock,1,22.0,Tiện ích,Tiện ích,listing_only,,True
+PHC,CTCP Xây dựng Phục Hưng Holdings,Phuc Hung Holdings Construction Joint Stock Company,HOSE,stock,1,24.0,Xây dựng,Xây dựng,listing_only,,True
+PHR,CTCP Cao su Phước Hòa,Phuoc Hoa Rubber Joint Stock Company,HOSE,stock,1,18.0,SX Nhựa - Hóa chất,SX Nhựa - Hóa chất,listing_only,,True
+PIT,CTCP Xuất nhập khẩu Petrolimex,Petrolimex International Trading Joint Stock Company,HOSE,stock,1,1.0,Bán buôn,Bán buôn,listing_only,,True
+PJT,CTCP Vận tải Xăng dầu Đường Thủy Petrolimex,Petrolimex Joint Stock Tanker Company,HOSE,stock,1,23.0,Vận tải - kho bãi,Vận tải - kho bãi,listing_only,,True
+PLP,CTCP Sản xuất và Công nghệ Nhựa Pha Lê,Pha Le Plastics Manufacturing and Technology Joint Stock Company,HOSE,stock,1,18.0,SX Nhựa - Hóa chất,SX Nhựa - Hóa chất,listing_only,,True
+PLX,Tập đoàn Xăng Dầu Việt Nam,VietNam National Petroleum Group,HOSE,stock,1,1.0,Bán buôn,Bán buôn,listing_only,,True
+PMG,CTCP Đầu tư và Sản xuất Petro Miền Trung,Petro Center Corporation,HOSE,stock,1,1.0,Bán buôn,Bán buôn,listing_only,,True
+PNC,CTCP Văn hóa Phương Nam,Phuong Nam Cultural Joint Stock Corporation,HOSE,stock,1,7.0,Bán lẻ,Bán lẻ,listing_only,,True
+PNJ,CTCP Vàng bạc Đá quý Phú Nhuận,Phu Nhuan Jewelry Joint Stock Company,HOSE,stock,1,7.0,Bán lẻ,Bán lẻ,listing_only,,True
+POW,Tổng Công ty Điện lực Dầu khí Việt Nam - CTCP,PetroVietnam Power Corporation,HOSE,stock,1,22.0,Tiện ích,Tiện ích,listing_only,,True
+PPC,CTCP Nhiệt điện Phả Lại,Pha Lai Thermal Power Joint Stock Company,HOSE,stock,1,22.0,Tiện ích,Tiện ích,listing_only,,True
+PTB,CTCP Phú Tài,Phu Tai Joint Stock Company,HOSE,stock,1,26.0,SX Phụ trợ,SX Phụ trợ,listing_only,,True
+PTC,CTCP Đầu Tư Icapital,Icapital Investment Joint Stock Company,HOSE,stock,1,24.0,Xây dựng,Xây dựng,listing_only,,True
+PTL,CTCP Victory Group,Victory Group Joint Stock Company,HOSE,stock,1,3.0,Bất động sản,Bất động sản,listing_only,,True
+PVD,Tổng Công ty cổ phần Khoan và Dịch vụ khoan Dầu khí,PetroVietnam Drilling & Well Services Corporation,HOSE,stock,1,10.0,Khai khoáng,Khai khoáng,listing_only,,True
+PVP,CTCP Vận tải Dầu khí Thái Bình Dương,Pacific Petroleum Transportation Joint Stock Company,HOSE,stock,1,23.0,Vận tải - kho bãi,Vận tải - kho bãi,listing_only,,True
+PVT,Tổng Công ty cổ phần Vận tải Dầu khí,PetroVietnam Transportation Corporation,HOSE,stock,1,23.0,Vận tải - kho bãi,Vận tải - kho bãi,listing_only,,True
+QCG,CTCP Quốc Cường Gia Lai,Quoc Cuong Gia Lai Joint Stock Company,HOSE,stock,1,3.0,Bất động sản,Bất động sản,listing_only,,True
+QNP,CTCP Cảng Quy Nhơn,Quy Nhon Port Joint Stock Company,HOSE,stock,1,23.0,Vận tải - kho bãi,Vận tải - kho bãi,listing_only,,True
+RAL,CTCP Bóng đèn Phích nước Rạng Đông,Rang Dong Light Source and Vacuum Flask Joint Stock Company,HOSE,stock,1,27.0,Thiết bị điện,Thiết bị điện,listing_only,,True
+REE,CTCP Cơ Điện Lạnh,Refrigeration Electrical Engineering Corporation,HOSE,stock,1,24.0,Xây dựng,Xây dựng,listing_only,,True
+RYG,CTCP Sản xuất và Đầu tư Hoàng Gia,Royal Manufacture and Investment Joint Stock Company,HOSE,stock,1,16.0,SX Hàng gia dụng,SX Hàng gia dụng,listing_only,,True
+S4A,CTCP Thủy điện Sê San 4A,Se San 4A HydroPower Joint Stock Company,HOSE,stock,1,22.0,Tiện ích,Tiện ích,listing_only,,True
+SAB,Tổng Công ty cổ phần Bia - Rượu - Nước giải khát Sài Gòn,Saigon Beer - Alcohol - Beverage Corporation,HOSE,stock,1,19.0,Thực phẩm - Đồ uống,Thực phẩm - Đồ uống,listing_only,,True
+SAM,CTCP SAM Holdings,SAM Holdings Corporation,HOSE,stock,1,27.0,Thiết bị điện,Thiết bị điện,listing_only,,True
+SAV,CTCP Hợp tác Kinh tế và Xuất nhập khẩu Savimex,Savimex Corporation,HOSE,stock,1,16.0,SX Hàng gia dụng,SX Hàng gia dụng,listing_only,,True
+SBA,CTCP Sông Ba,Song Ba Joint Stock Company,HOSE,stock,1,22.0,Tiện ích,Tiện ích,listing_only,,True
+SBG,CTCP Tập đoàn Cơ khí Công nghệ cao Siba,Siba High-Tech Mechanical Group Joint Stock Company,HOSE,stock,1,15.0,"SX Thiết bị, máy móc","SX Thiết bị, máy móc",listing_only,,True
+SBT,CTCP Thành Thành Công - Biên Hòa,Thanh Thanh Cong - Bien Hoa Joint Stock Company,HOSE,stock,1,19.0,Thực phẩm - Đồ uống,Thực phẩm - Đồ uống,listing_only,,True
+SBV,CTCP Siam Brothers Việt Nam,Siam Brothers Vietnam Joint Stock Company,HOSE,stock,1,26.0,SX Phụ trợ,SX Phụ trợ,listing_only,,True
+SC5,CTCP Xây dựng Số 5,Construction Joint Stock Company No 5,HOSE,stock,1,24.0,Xây dựng,Xây dựng,listing_only,,True
+SCR,CTCP Địa ốc Sài Gòn Thương Tín,Sai Gon Thuong Tin Real Estate Joint Stock Company,HOSE,stock,1,3.0,Bất động sản,Bất động sản,listing_only,,True
+SCS,CTCP Dịch vụ Hàng hóa Sài Gòn,Sai Gon Cargo Service Corporation,HOSE,stock,1,23.0,Vận tải - kho bãi,Vận tải - kho bãi,listing_only,,True
+SFC,CTCP Nhiên liệu Sài Gòn,SaiGon Fuel Joint Stock Company,HOSE,stock,1,7.0,Bán lẻ,Bán lẻ,listing_only,,True
+SFG,CTCP Phân Bón Miền Nam,The Southern Fertilizer Joint Stock Company,HOSE,stock,1,18.0,SX Nhựa - Hóa chất,SX Nhựa - Hóa chất,listing_only,,True
+SFI,CTCP Đại lý Vận tải SAFI,Sea & Air Freight International,HOSE,stock,1,23.0,Vận tải - kho bãi,Vận tải - kho bãi,listing_only,,True
+SGN,CTCP Phục vụ Mặt đất Sài Gòn,Saigon Ground Services Joint Stock Company,HOSE,stock,1,23.0,Vận tải - kho bãi,Vận tải - kho bãi,listing_only,,True
+SGR,CTCP Tổng CTCP Địa ốc Sài Gòn,Saigon Real Estate Group Joint Stock Company,HOSE,stock,1,3.0,Bất động sản,Bất động sản,listing_only,,True
+SGT,CTCP Công nghệ Viễn Thông Sài Gòn,SaiGon Telecommunication & Technologies Corporation,HOSE,stock,1,6.0,Công nghệ và thông tin,Công nghệ và thông tin,listing_only,,True
+SHA,CTCP Sơn Hà Sài Gòn,Son Ha Sai Gon Joint Stock Company,HOSE,stock,1,16.0,SX Hàng gia dụng,SX Hàng gia dụng,listing_only,,True
+SHI,CTCP Quốc tế Sơn Hà,Son Ha International Corporation,HOSE,stock,1,26.0,SX Phụ trợ,SX Phụ trợ,listing_only,,True
+SHP,CTCP Thủy điện Miền Nam,Southern Hydropower Joint Stock Company,HOSE,stock,1,22.0,Tiện ích,Tiện ích,listing_only,,True
+SIP,CTCP Đầu tư Sài Gòn VRG,Sai Gon VRG Investment Corporation,HOSE,stock,1,22.0,Tiện ích,Tiện ích,listing_only,,True
+SJD,CTCP Thủy điện Cần Đơn,Candon HydroPower Joint Stock Company,HOSE,stock,1,22.0,Tiện ích,Tiện ích,listing_only,,True
+SJS,CTCP SJ Group,SJ Group Joint Stock Company,HOSE,stock,1,3.0,Bất động sản,Bất động sản,listing_only,,True
+SKG,CTCP Tàu cao tốc Superdong - Kiên Giang,Superdong Fast Ferry Kieng Giang Joint Stock Company,HOSE,stock,1,23.0,Vận tải - kho bãi,Vận tải - kho bãi,listing_only,,True
+SMA,CTCP Thiết bị Phụ tùng Sài Gòn,Sai Gon Machinery Spare Parts Joint Stock Company,HOSE,stock,1,1.0,Bán buôn,Bán buôn,listing_only,,True
+SMB,CTCP Bia Sài Gòn - Miền Trung,Sai Gon - Mien Trung Beer Joint Stock Company,HOSE,stock,1,19.0,Thực phẩm - Đồ uống,Thực phẩm - Đồ uống,listing_only,,True
+SMC,CTCP Đầu tư Thương mại SMC,SMC Trading Investment Joint Stock Company,HOSE,stock,1,1.0,Bán buôn,Bán buôn,listing_only,,True
+SPM,CTCP SPM,SPM Joint Stock Company,HOSE,stock,1,8.0,Chăm sóc sức khỏe,Chăm sóc sức khỏe,listing_only,,True
+SRC,CTCP Cao su Sao Vàng,Sao Vang Rubber Joint Stock Company,HOSE,stock,1,17.0,Sản phẩm cao su,Sản phẩm cao su,listing_only,,True
+SRF,CTCP SEAREFICO,Searefico Corporation,HOSE,stock,1,24.0,Xây dựng,Xây dựng,listing_only,,True
+SSC,CTCP Giống cây trồng Miền Nam,Southern Seed Corporation,HOSE,stock,1,12.0,Nông - Lâm - Ngư,Nông - Lâm - Ngư,listing_only,,True
+ST8,CTCP Tập đoàn ST8,ST8 Holdings Joint Stock Company,HOSE,stock,1,1.0,Bán buôn,Bán buôn,listing_only,,True
+STG,CTCP Kho vận Miền Nam,South Logistics Joint Stock Company,HOSE,stock,1,23.0,Vận tải - kho bãi,Vận tải - kho bãi,listing_only,,True
+STK,CTCP Sợi Thế Kỷ,Century Synthetic Fiber Corporation,HOSE,stock,1,16.0,SX Hàng gia dụng,SX Hàng gia dụng,listing_only,,True
+SVC,CTCP Dịch vụ Tổng hợp Sài Gòn,Saigon General Service Corporation,HOSE,stock,1,7.0,Bán lẻ,Bán lẻ,listing_only,,True
+SVD,CTCP Đầu tư & Thương mại Vũ Đăng,Vu Dang Investment & Trading Joint Stock Company,HOSE,stock,1,16.0,SX Hàng gia dụng,SX Hàng gia dụng,listing_only,,True
+SVT,CTCP Công nghệ Sài Gòn Viễn Đông,Sai Gon Vien Dong Technology Joint Stock Company,HOSE,stock,1,26.0,SX Phụ trợ,SX Phụ trợ,listing_only,,True
+SZC,CTCP Sonadezi Châu Đức,Sonadezi Chau Duc Shareholding Company,HOSE,stock,1,3.0,Bất động sản,Bất động sản,listing_only,,True
+SZL,CTCP Sonadezi Long Thành,Sonadezi Long Thanh Shareholding Company,HOSE,stock,1,3.0,Bất động sản,Bất động sản,listing_only,,True
+TAL,CTCP Đầu tư Bất động sản Taseco,Taseco Land Investment Joint Stock Company,HOSE,stock,1,3.0,Bất động sản,Bất động sản,listing_only,,True
+TBC,CTCP Thủy điện Thác Bà,Thac Ba Hydro Power Joint Stock Company,HOSE,stock,1,22.0,Tiện ích,Tiện ích,listing_only,,True
+TCD,CTCP Tập đoàn Xây dựng TRACODI,TRACODI Construction Holdings Joint Stock Company,HOSE,stock,1,24.0,Xây dựng,Xây dựng,listing_only,,True
+TCL,CTCP Đại lý Giao nhận Vận tải Xếp dỡ Tân Cảng,Tan Cang Logistics and Stevedoring Joint Stock Company,HOSE,stock,1,23.0,Vận tải - kho bãi,Vận tải - kho bãi,listing_only,,True
+TCM,CTCP Dệt may - Đầu tư - Thương mại Thành Công,Thanh Cong Textile Garment Investment Trading Joint Stock Company,HOSE,stock,1,16.0,SX Hàng gia dụng,SX Hàng gia dụng,listing_only,,True
+TCO,CTCP Janus Group,Janus GroupJoint Stock Company,HOSE,stock,1,23.0,Vận tải - kho bãi,Vận tải - kho bãi,listing_only,,True
+TCR,CTCP Công nghiệp Gốm sứ Taicera,Taicera Enterprise Company,HOSE,stock,1,21.0,Vật liệu xây dựng,Vật liệu xây dựng,listing_only,,True
+TCT,CTCP Cáp treo Núi Bà Tây Ninh,Tay Ninh Cable Car Tour Company,HOSE,stock,1,23.0,Vận tải - kho bãi,Vận tải - kho bãi,listing_only,,True
+TDC,CTCP Kinh doanh và Phát triển Bình Dương,Binh Duong Trade And Development Joint Stock Company,HOSE,stock,1,3.0,Bất động sản,Bất động sản,listing_only,,True
+TDG,CTCP Đầu tư TDG Global,TDG Global Investment Joint Stock Company,HOSE,stock,1,1.0,Bán buôn,Bán buôn,listing_only,,True
+TDH,CTCP Phát triển Nhà Thủ Đức,Thu Duc Housing Development Corporation,HOSE,stock,1,3.0,Bất động sản,Bất động sản,listing_only,,True
+TDM,CTCP Nước Thủ Dầu Một,Thu Dau Mot Water Joint Stock Company,HOSE,stock,1,22.0,Tiện ích,Tiện ích,listing_only,,True
+TDP,CTCP Thuận Đức,Thuan Duc Joint Stock Company,HOSE,stock,1,18.0,SX Nhựa - Hóa chất,SX Nhựa - Hóa chất,listing_only,,True
+TDW,CTCP Cấp nước Thủ Đức,Thu Duc Water Supply Joint Stock Company,HOSE,stock,1,22.0,Tiện ích,Tiện ích,listing_only,,True
+TEG,CTCP Trường Thành Energy Group,Truong Thanh Energy Group Joint Stock Company,HOSE,stock,1,21.0,Vật liệu xây dựng,Vật liệu xây dựng,listing_only,,True
+THG,CTCP Đầu tư và Xây dựng Tiền Giang,Tien Giang Investment and Construction Joint Stock Company,HOSE,stock,1,21.0,Vật liệu xây dựng,Vật liệu xây dựng,listing_only,,True
+TIP,CTCP Phát triển Khu Công nghiệp Tín Nghĩa,Tin Nghia Industrial Park Development Joint Stock Company,HOSE,stock,1,3.0,Bất động sản,Bất động sản,listing_only,,True
+TIX,CTCP Sản xuất Kinh doanh Xuất nhập khẩu Dịch vụ và Đầu tư Tân Bình,Tan Binh Import - Export Joint Stock Corporation,HOSE,stock,1,3.0,Bất động sản,Bất động sản,listing_only,,True
+TLD,CTCP Đầu tư Xây dựng và Phát triển Đô thị Thăng Long,Thang Long Urban Development and Construction Investment Joint Stock Company,HOSE,stock,1,26.0,SX Phụ trợ,SX Phụ trợ,listing_only,,True
+TLG,CTCP Tập đoàn Thiên Long,Thien Long Group Corporation,HOSE,stock,1,26.0,SX Phụ trợ,SX Phụ trợ,listing_only,,True
+TLH,CTCP Tập đoàn Thép Tiến Lên,Tien Len Steel Corporation Joint - Stock Company,HOSE,stock,1,1.0,Bán buôn,Bán buôn,listing_only,,True
+TMP,CTCP Thủy điện Thác Mơ,Thac Mo Hydropower Joint Stock Company,HOSE,stock,1,22.0,Tiện ích,Tiện ích,listing_only,,True
+TMS,CTCP Transimex,Transimex Corporation,HOSE,stock,1,23.0,Vận tải - kho bãi,Vận tải - kho bãi,listing_only,,True
+TMT,CTCP Ô tô TMT,TMT Motors Corporation,HOSE,stock,1,26.0,SX Phụ trợ,SX Phụ trợ,listing_only,,True
+TN1,CTCP Rox Key Holdings,Rox Key Holdings Joint Stock Company,HOSE,stock,1,3.0,Bất động sản,Bất động sản,listing_only,,True
+TNC,CTCP Cao su Thống Nhất,Thong Nhat Rubber Joint Stock Company,HOSE,stock,1,18.0,SX Nhựa - Hóa chất,SX Nhựa - Hóa chất,listing_only,,True
+TNH,CTCP Tập đoàn Bệnh viện TNH,TNH Hospital Group Joint Stock Company,HOSE,stock,1,8.0,Chăm sóc sức khỏe,Chăm sóc sức khỏe,listing_only,,True
+TNI,CTCP Tập đoàn Thành Nam,Thanh Nam Group Joint Stock Company,HOSE,stock,1,1.0,Bán buôn,Bán buôn,listing_only,,True
+TNT,CTCP Tập đoàn TNT,TNT Group Joint Stock Company,HOSE,stock,1,10.0,Khai khoáng,Khai khoáng,listing_only,,True
+TPC,CTCP Nhựa Tân Đại Hưng,Tan Dai Hung Plastic Joint Stock Company,HOSE,stock,1,18.0,SX Nhựa - Hóa chất,SX Nhựa - Hóa chất,listing_only,,True
+TRA,CTCP Traphaco,Traphaco Joint Stock Company,HOSE,stock,1,8.0,Chăm sóc sức khỏe,Chăm sóc sức khỏe,listing_only,,True
+TRC,CTCP Cao su Tây Ninh,Tay Ninh Rubber Joint Stock Company ,HOSE,stock,1,18.0,SX Nhựa - Hóa chất,SX Nhựa - Hóa chất,listing_only,,True
+TSA,CTCP Đầu tư và Xây lắp Trường Sơn,Truong Son Investment And Construction Joint Stock Company,HOSE,stock,1,24.0,Xây dựng,Xây dựng,listing_only,,True
+TSC,CTCP Vật tư Kỹ thuật nông nghiệp Cần Thơ,Techno - Agricultural Supplying Joint Stock Company,HOSE,stock,1,1.0,Bán buôn,Bán buôn,listing_only,,True
+TTA,CTCP Đầu tư Xây dựng và Phát triển Trường Thành,Truong Thanh Development and Construction Investment Joint Stock Company,HOSE,stock,1,22.0,Tiện ích,Tiện ích,listing_only,,True
+TTE,CTCP Đầu tư Năng lượng Trường Thịnh,Truong Thinh Energy Investment Joint Stock Company,HOSE,stock,1,22.0,Tiện ích,Tiện ích,listing_only,,True
+TTF,CTCP Tập đoàn Kỹ nghệ gỗ Trường Thành,Truong Thanh Furniture Corporation,HOSE,stock,1,16.0,SX Hàng gia dụng,SX Hàng gia dụng,listing_only,,True
+TV2,CTCP Tư vấn Xây dựng Điện 2,Power Engineering Consulting Joint Stock Company 2,HOSE,stock,1,28.0,"Dịch vụ tư vấn, hỗ trợ","Dịch vụ tư vấn, hỗ trợ",listing_only,,True
+TVT,Tổng Công ty Việt Thắng - CTCP,Viet Thang Corporation,HOSE,stock,1,16.0,SX Hàng gia dụng,SX Hàng gia dụng,listing_only,,True
+TYA,CTCP Dây và Cáp Điện Taya Việt Nam,Taya (Vietnam) Electric Wire and Cable Joint Stock Company,HOSE,stock,1,27.0,Thiết bị điện,Thiết bị điện,listing_only,,True
+UIC,CTCP Đầu tư Phát triển Nhà và Đô thị IDICO,Idico Urban and House Development Investment Joint-Stock Company,HOSE,stock,1,22.0,Tiện ích,Tiện ích,listing_only,,True
+VCA,CTCP Thép VICASA,VICASA Joint Stock Company,HOSE,stock,1,21.0,Vật liệu xây dựng,Vật liệu xây dựng,listing_only,,True
+VCF,CTCP Vinacafé Biên Hòa,Vinacafé Bien Hoa Joint Stock Company,HOSE,stock,1,19.0,Thực phẩm - Đồ uống,Thực phẩm - Đồ uống,listing_only,,True
+VCG,Tổng Công ty cổ phần Xuất nhập khẩu và Xây dựng Việt Nam,Viet Nam Construction And Import - Export Joint Stock Corporation,HOSE,stock,1,24.0,Xây dựng,Xây dựng,listing_only,,True
+VDP,CTCP Dược phẩm Trung ương VIDIPHA,VIDIPHA Central Pharmaceutical Joint - Stock Company,HOSE,stock,1,8.0,Chăm sóc sức khỏe,Chăm sóc sức khỏe,listing_only,,True
+VFG,CTCP Khử trùng Việt Nam,Viet Nam Fumigation Joint Stock Company,HOSE,stock,1,1.0,Bán buôn,Bán buôn,listing_only,,True
+VGC,Tổng Công ty Viglacera - CTCP,Viglacera Corporation - JSC,HOSE,stock,1,21.0,Vật liệu xây dựng,Vật liệu xây dựng,listing_only,,True
+VHC,CTCP Vĩnh Hoàn,Vinh Hoan Corporation,HOSE,stock,1,20.0,Chế biến Thủy sản,Chế biến Thủy sản,listing_only,,True
+VHM,CTCP Vinhomes,Vinhomes Joint Stock Company,HOSE,stock,1,3.0,Bất động sản,Bất động sản,listing_only,,True
+VIC,Tập đoàn VINGROUP - CTCP,Vingroup Joint Stock Company,HOSE,stock,1,3.0,Bất động sản,Bất động sản,listing_only,,True
+VID,CTCP Đầu tư Phát triển Thương mại Viễn Đông,Vien Dong Investment Development Trading Corporation,HOSE,stock,1,1.0,Bán buôn,Bán buôn,listing_only,,True
+VIP,CTCP Vận tải Xăng dầu VIPCO,Vietnam Petroleum Transport Joint Stock Company,HOSE,stock,1,23.0,Vận tải - kho bãi,Vận tải - kho bãi,listing_only,,True
+VJC,CTCP Hàng không Vietjet,Vietjet Aviation Joint Stock Company,HOSE,stock,1,23.0,Vận tải - kho bãi,Vận tải - kho bãi,listing_only,,True
+VMD,CTCP Y Dược phẩm Vimedimex,Vimedimex Medi - Pharma Joint Stock Company,HOSE,stock,1,1.0,Bán buôn,Bán buôn,listing_only,,True
+VNG,CTCP Du lịch Thành Thành Công,Thanh Thanh Cong Tourist Joint Stock Company,HOSE,stock,1,25.0,"Dịch vụ lưu trú, ăn uống, giải trí","Dịch vụ lưu trú, ăn uống, giải trí",listing_only,,True
+VNL,CTCP Logistics Vinalink,Vinalink Logistics Joint Stock Company,HOSE,stock,1,23.0,Vận tải - kho bãi,Vận tải - kho bãi,listing_only,,True
+VNM,CTCP Sữa Việt Nam,Vietnam Dairy Products Joint Stock Company,HOSE,stock,1,19.0,Thực phẩm - Đồ uống,Thực phẩm - Đồ uống,listing_only,,True
+VNS,CTCP Ánh Dương Việt Nam,Vietnam Sun Corporation,HOSE,stock,1,23.0,Vận tải - kho bãi,Vận tải - kho bãi,listing_only,,True
+VOS,CTCP Vận tải Biển Việt Nam,Vietnam Ocean Shipping Joint Stock Company,HOSE,stock,1,23.0,Vận tải - kho bãi,Vận tải - kho bãi,listing_only,,True
+VPD,CTCP Phát triển Điện lực Việt Nam,Vietnam Power Development Joint Stock Company,HOSE,stock,1,22.0,Tiện ích,Tiện ích,listing_only,,True
+VPG,CTCP Đầu tư Thương mại Xuất nhập khẩu Việt Phát,Viet Phat Import Export Trading Investment Joint Stock Company,HOSE,stock,1,1.0,Bán buôn,Bán buôn,listing_only,,True
+VPH,CTCP Vạn Phát Hưng,Van Phat Hung Corporation,HOSE,stock,1,3.0,Bất động sản,Bất động sản,listing_only,,True
+VPI,CTCP Phát triển Bất động sản Văn Phú,Van Phu Real Estate Development Joint Stock Company,HOSE,stock,1,3.0,Bất động sản,Bất động sản,listing_only,,True
+VPL,CTCP Vinpearl,Vinpearl Joint Stock Company,HOSE,stock,1,25.0,"Dịch vụ lưu trú, ăn uống, giải trí","Dịch vụ lưu trú, ăn uống, giải trí",listing_only,,True
+VPS,CTCP Thuốc sát trùng Việt Nam ,Vietnam Pesticide Joint Stock Company,HOSE,stock,1,18.0,SX Nhựa - Hóa chất,SX Nhựa - Hóa chất,listing_only,,True
+VRC,CTCP Bất động sản và Đầu tư VRC,VRC Real Estate and Investment Joint Stock Company,HOSE,stock,1,3.0,Bất động sản,Bất động sản,listing_only,,True
+VRE,CTCP Vincom Retail,Vincom Retail Joint Stock Company,HOSE,stock,1,3.0,Bất động sản,Bất động sản,listing_only,,True
+VSC,CTCP Container Việt Nam,Vietnam Container Shipping Joint Stock Corporation,HOSE,stock,1,23.0,Vận tải - kho bãi,Vận tải - kho bãi,listing_only,,True
+VSH,CTCP Thủy điện Vĩnh Sơn - Sông Hinh,Vinh Son - Song Hinh Hydropower Joint Stock Company,HOSE,stock,1,22.0,Tiện ích,Tiện ích,listing_only,,True
+VSI,CTCP Đầu tư và Xây dựng Cấp thoát nước,Water Supply Sewerage Construction and Investment Joint Stock Company,HOSE,stock,1,24.0,Xây dựng,Xây dựng,listing_only,,True
+VTB,CTCP Viettronics Tân Bình,Viettronics Tan Binh Joint Stock Company,HOSE,stock,1,27.0,Thiết bị điện,Thiết bị điện,listing_only,,True
+VTO,CTCP Vận tải Xăng dầu Vitaco,Vietnam Tanker Joint Stock Company,HOSE,stock,1,23.0,Vận tải - kho bãi,Vận tải - kho bãi,listing_only,,True
+VTP,Tổng Công ty cổ phần Bưu chính Viettel,Viettel Post Joint Stock Corporation,HOSE,stock,1,23.0,Vận tải - kho bãi,Vận tải - kho bãi,listing_only,,True
+VVS,CTCP Đầu tư phát triển máy Việt Nam,Vietnam Machine Investment Development Joint Stock Company,HOSE,stock,1,1.0,Bán buôn,Bán buôn,listing_only,,True
+YBM,CTCP YBM,YBM Joint Stock Company,HOSE,stock,1,21.0,Vật liệu xây dựng,Vật liệu xây dựng,listing_only,,True
+YEG,CTCP Tập đoàn Yeah1,Yeah1 Group Corporation,HOSE,stock,1,,,,listing_only,,True
