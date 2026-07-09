@@ -29,3 +29,6 @@ desktop.ini
 
 # Metadata files (auto-generated)
 *.metadata.json
+
+# Resumable CafeF page-level cache (aggregate snapshot is versionable)
+data/raw/cafef_cache/
