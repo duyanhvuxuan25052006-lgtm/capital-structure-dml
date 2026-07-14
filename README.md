@@ -1,140 +1,77 @@
-# Tác động của Cấu trúc Vốn lên Hiệu quả Hoạt động Doanh nghiệp Niêm yết tại Việt Nam: Tiếp cận Double Machine Learning
+# Mối Liên Hệ giữa Cấu Trúc Vốn và Hiệu Quả Hoạt Động Doanh Nghiệp Niêm Yết tại Việt Nam: Tiếp Cận Double Machine Learning
 
 **Capital Structure and Firm Performance in Vietnam: A Double Machine Learning Approach**
 
 ---
 
-## Tổng quan
+## 📊 Tổng quan Kết quả Thực nghiệm (Audited & Fixed)
 
-Nghiên cứu này ước lượng **tác động nhân quả** của cấu trúc vốn (đòn bẩy tài chính) lên hiệu quả hoạt động (ROA) của các doanh nghiệp phi tài chính niêm yết trên sàn HOSE/HNX, giai đoạn 2018–2026.
+Nghiên cứu này ước lượng **mối liên hệ có điều kiện** (conditional association) dưới giả định unconfoundedness của cấu trúc vốn lên hiệu quả hoạt động (ROA) của các doanh nghiệp phi tài chính niêm yết trên thị trường chứng khoán Việt Nam giai đoạn 2018–2026. 
 
-Phương pháp **Double Machine Learning (DML-PLR)** theo khung lý thuyết của Chernozhukov et al. (2018) được áp dụng, kết hợp với biến đổi Fixed Effects (Entity Demean) và Cross-Fitting 5-fold.
-
-### Kết quả chính
-
-| Chỉ số | Giá trị |
-|---|---|
-| Mẫu nghiên cứu | 50 doanh nghiệp phi tài chính, 1.591 quan sát quý |
-| Giai đoạn | 2018 – 2026 |
-| Hệ số θ (DML-Random Forest) | +0,0313 (ý nghĩa thống kê ở mức 5%, p = 0,0301) |
-| R² (Random Forest) | 37,53% (vượt trội so với OLS: 32,76%) |
-| Ramsey RESET | F = 20,23; p < 0,001 → xác nhận quan hệ phi tuyến |
-
-> **Kết luận:** Đòn bẩy tài sản có tác động nhân quả tích cực và có ý nghĩa thống kê lên ROA khi kiểm soát phi tuyến ($\theta \approx 0,0313$, $p < 0,05$ với Random Forest DML), trong khi các đặc tả tuyến tính bỏ sót tác động này. Điều này ủng hộ lý thuyết Đại diện (nợ là công cụ kỷ luật tài chính) và lý thuyết Đánh đổi (nhóm doanh nghiệp lớn vẫn hoạt động dưới ngưỡng đòn bẩy tối ưu).
+Quy trình đã được **đánh giá kiểm soát và sửa đổi toàn diện** để tích hợp các chuẩn mực học thuật:
+- Sử dụng cả 2 định nghĩa đòn bẩy: Đòn bẩy tài sản tổng thể (`td_a`) và Đòn bẩy nợ vay có lãi (`ibd_a`).
+- Bổ sung biến kiểm soát quy mô doanh nghiệp (`firm_size` = log market cap) và tài sản cố định (`tangibility`).
+- Winsorize từng quý (1-99%) để kiểm soát cú sốc vĩ mô động.
+- Áp dụng sai số chuẩn cụm 1 chiều (One-way cluster theo DN) và cụm 2 chiều (Two-way cluster theo DN + Quý).
+- Thực hiện phân tích Heterogeneous Treatment Effects (HTE) trên phân nhóm Large-cap (Top 100) vs. Mid/Small-cap để chứng minh "thiên lệch thành phần mẫu".
 
 ---
 
-## Cấu trúc thư mục
+## 📈 Kết quả ước lượng chính (Mẫu gộp: 32.029 quan sát)
+
+### 1. Mô hình Baseline truyền thống (Two-way FE, 32 Quarter Dummies)
+- **td_a (Total Leverage):** $\theta = -0.060157^{***}$ ($SE = 0.006605$)
+- **ibd_a (Financial Leverage):** $\theta = -0.085735^{***}$ ($SE = 0.006930$)
+
+### 2. Mô hình Double Machine Learning (DML-PLR, Random Forest)
+- **td_a (Total Leverage) - One-way Cluster:** $\theta = -0.038030^{***}$ ($SE = 0.006106$)
+- **td_a (Total Leverage) - Two-way Cluster:** $\theta = -0.037864^{**}$ ($SE = 0.011853$, $p = 0.0014$)
+- **ibd_a (Financial Leverage) - One-way Cluster:** $\theta = -0.051032^{***}$ ($SE = 0.006128$)
+- **ibd_a (Financial Leverage) - Two-way Cluster:** $\theta = -0.051559^{***}$ ($SE = 0.010772$)
+
+### 3. Phân nhóm HTE (Large-cap vs. Mid/Small-cap)
+- **Large-Cap (Top 100):** Tác động gần như triệt tiêu và không có ý nghĩa thống kê ($\theta_{TD/A} = +0.0103, p = 0.573$; $\theta_{IBD/A} = -0.0144, p = 0.343$).
+- **Mid/Small-Cap:** Tác động âm rất lớn và có ý nghĩa cao ($\theta_{TD/A} = -0.0416^{***}$; $\theta_{IBD/A} = -0.0530^{***}$).
+- *Giải thích:* Thiên lệch thành phần mẫu xuất hiện do nhóm doanh nghiệp vừa và nhỏ chiếm ưu thế tuyệt đối (91% quan sát), kéo kết quả toàn mẫu gộp theo chiều âm, trong khi nhóm Blue-chips ít bị ảnh hưởng bởi đòn bẩy.
+
+---
+
+## 🗂️ Cấu trúc thư mục
 
 ```
 ├── README.md                         # File này
 ├── requirements.txt                  # Các thư viện Python cần thiết
-├── .gitignore                        # Các file/thư mục bị loại trừ khỏi Git
+├── walkthrough.md                    # Hướng dẫn chi tiết công việc đã audit
 │
 ├── data/                             # Dữ liệu nghiên cứu
-│   ├── raw/                          # Dữ liệu thô từ API
-│   │   ├── step1_tickers_list.csv    # Danh sách mã cổ phiếu HOSE/HNX
-│   │   ├── step2_company_profiles.csv# Thông tin doanh nghiệp (ngành, sở hữu, niêm yết)
-│   │   └── step3_financial_ratios.csv# Chỉ số tài chính quý từ VCI API
-│   ├── processed/                    # Dữ liệu đã xử lý
-│   │   └── master_panel_dataset.csv  # Bộ dữ liệu bảng chính (1.591 obs × 63 biến)
-│   └── Data_Documentation.md         # Tài liệu mô tả chi tiết các biến số
+│   ├── all_nonfinancial_tickers.csv  # Danh sách mã phi tài chính
+│   ├── raw_financial_ratios_all.csv  # Dữ liệu chỉ số tài chính thô
+│   ├── master_panel_all_firms.csv    # Dữ liệu Master sạch (32.029 obs × 19 cột)
+│   └── Data_Documentation.md         # Tài liệu mô tả biến số
 │
 ├── scripts/                          # Mã nguồn Python
-│   ├── download_step1.py             # Thu thập danh sách mã cổ phiếu
-│   ├── download_step2.py             # Thu thập thông tin doanh nghiệp
-│   ├── download_step3.py             # Thu thập chỉ số tài chính quý
-│   ├── merge_master.py               # Ghép nối và làm sạch dữ liệu bảng
-│   ├── test_nonlinearity.py          # Kiểm định Ramsey RESET (phi tuyến)
-│   ├── run_dml_analysis.py           # Chạy mô hình DML-PLR chính
-│   └── final_research_pipeline.py    # Pipeline tổng hợp: data → analysis → output
+│   ├── clean_and_validate.py         # Làm sạch, winsorize và tính toán biến phái sinh
+│   ├── run_baseline_expanded.py      # Ước lượng OLS, FE, TWFE cho cả td_a và ibd_a
+│   ├── run_dml_expanded.py           # Ước lượng DML cho cả hai loại đòn bẩy + HTE + Cluster SE
+│   └── run_all_analyses.py           # Script tổng hợp chạy toàn bộ pipeline
 │
-├── results/                          # Kết quả phân tích
-│   ├── dml_results.csv               # Hệ số ước lượng DML chi tiết
-│   ├── dml_final_report.csv          # Bảng tổng hợp kết quả cuối cùng
-│   └── figures/                      # Biểu đồ
-│       ├── dml_coefficient_plot.png   # Biểu đồ hệ số DML
-│       └── dml_final_forest_plot.png  # Forest plot so sánh các mô hình
-│
-├── paper/                            # Bài nghiên cứu
-│   ├── Capital_Structure_DML_Report.md   # Bản Markdown đầy đủ
-│   └── Capital_Structure_DML_Report.tex  # Bản LaTeX (để biên dịch PDF)
-│
-└── references/                       # Tài liệu tham khảo
-    └── paper_summary_vietnamese.md    # Tóm tắt bài Nguyen et al. (2023)
+└── results/                          # Kết quả đầu ra
+    ├── baseline_results.csv          # Bảng kết quả baseline
+    ├── dml_results_expanded.csv      # Bảng kết quả DML (bao gồm cả HTE)
+    ├── dml_seed_stability.csv        # Bảng kết quả chạy seed stability
+    └── figures/
+        ├── scatter_lowess_nonlinearity.png       # Đồ thị phi tuyến LOWESS
+        └── convergence_diagnostics_expanded.png   # Đồ thị Forest plot phân nhóm & seed sensitivity
 ```
 
----
+## 🚀 Cách chạy dự án
 
-## Hướng dẫn sử dụng
-
-### 1. Cài đặt môi trường
-
+Đảm bảo bạn đã cài đặt các thư viện cần thiết (`requirements.txt`):
 ```bash
 pip install -r requirements.txt
 ```
 
-### 2. Thu thập dữ liệu (nếu muốn tái lập từ đầu)
-
+Để chạy toàn bộ pipeline phân tích và tự động vẽ đồ thị, chạy lệnh:
 ```bash
-python scripts/download_step1.py    # Lấy danh sách mã CK
-python scripts/download_step2.py    # Lấy thông tin doanh nghiệp
-python scripts/download_step3.py    # Lấy chỉ số tài chính quý
-python scripts/merge_master.py      # Ghép nối thành master dataset
+python scripts/run_all_analyses.py
 ```
-
-> **Lưu ý:** API VCI có giới hạn 20 requests/phút — các scripts đã tích hợp `time.sleep()` để tránh bị chặn.
-
-### 3. Chạy phân tích
-
-```bash
-python scripts/test_nonlinearity.py      # Kiểm định Ramsey RESET
-python scripts/run_dml_analysis.py       # Chạy DML-PLR (kết quả lưu vào results/)
-```
-
-Hoặc chạy toàn bộ pipeline:
-
-```bash
-python scripts/final_research_pipeline.py
-```
-
----
-
-## Nguồn dữ liệu
-
-| Nguồn | Mô tả | Truy cập |
-|---|---|---|
-| **VCI API** (via `vnstock`) | Báo cáo tài chính quý đã kiểm toán từ HOSE/HNX | [vnstocks.com/docs](https://vnstocks.com/docs) |
-| **Vietcap Securities** | Nguồn gốc dữ liệu tài chính | Thông qua vnstock v4 |
-
----
-
-## Phương pháp nghiên cứu
-
-**Double Machine Learning — Partially Linear Regression (DML-PLR):**
-
-```
-Y = θ·D + g(X) + ε
-```
-
-- **Y** = ROA (Tỷ suất sinh lời trên tổng tài sản)
-- **D** = Financial Leverage (Đòn bẩy tài chính)
-- **X** = Controls: Gross Margin, Asset Turnover, Current Ratio, Firm Age, Sector FE, ...
-- **g(·)** = Hàm phi tuyến (ước lượng bằng Random Forest / LassoCV / ElasticNet)
-- **θ** = Hệ số tác động nhân quả cần ước lượng
-
-**Tham khảo lý thuyết:** Chernozhukov, V., Chetverikov, D., Demirer, M., Duflo, E., Hansen, C., Newey, W., & Robins, J. (2018). *Double/debiased machine learning for treatment and structural parameters.* The Econometrics Journal, 21(1), C1–C68.
-
----
-
-## Tác giả
-
-**Vũ Xuân Duy Anh**
-
-Lĩnh vực: Tài chính doanh nghiệp / Kinh tế lượng ứng dụng
-
----
-
-## Giấy phép
-
-Dự án này được phát triển phục vụ mục đích nghiên cứu học thuật.

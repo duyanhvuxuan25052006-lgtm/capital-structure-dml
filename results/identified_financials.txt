@@ -1,0 +1,6 @@
+BMI: Tổng Công ty cổ phần Bảo Minh (Bảo hiểm)
+BVH: Tập đoàn Bảo Việt (Bảo hiểm)
+IPA: CTCP Tập đoàn Đầu tư I.P.A (Tài chính khác)
+OGC: CTCP Tập đoàn Đại Dương (Tài chính khác)
+PVI: CTCP PVI (Bảo hiểm)
+TVC: CTCP Tập đoàn Quản lý tài sản T-Corp (Tài chính khác)

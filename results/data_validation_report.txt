@@ -1,0 +1,9 @@
+=== BAO CAO LAM SACH DU LIEU (AUDITED & FIXED) ===
+Raw observations: 33735
+Removed negative D/E observations: 975
+Removed extreme positive D/E (>100) observations: 32
+Removed missing D/E observations: 117
+Removed leaked financial firms: 6
+Firms with >= 8 quarters in raw data: 1336
+Final clean observations: 32029
+Final clean firms: 1310
